@@ -45,7 +45,7 @@ Customer-Churn-Analysis/
 ├── SQL/
 │   └── Customer_Churn_Analysis.sql
 ├── PowerBI/
-│   └── Customer_Churn_Dashboard.pbix
+│   └── README.md  (dashboard file placement)
 ├── Images/
 │   └── (add dashboard screenshots here)
 ├── Business_Impact_Insights.md
@@ -70,7 +70,7 @@ Required packages: `pandas`, `numpy`, `matplotlib`, and `seaborn`.
 
 ### Power BI
 
-Open `PowerBI/Customer_Churn_Dashboard.pbix` in Power BI Desktop. If prompted, update the data source to the local project CSV or your SQL Server table and refresh the model.
+The interactive dashboard was built in Power BI Desktop. Add the `.pbix` file to `PowerBI/Customer_Churn_Dashboard.pbix`, then open it in Power BI Desktop. If prompted, update the data source to the local project CSV or your SQL Server table and refresh the model.
 
 ## Important interpretation note
 
