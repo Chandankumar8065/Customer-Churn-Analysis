@@ -2,8 +2,10 @@
 
 The interactive customer churn dashboard was built in Power BI Desktop.
 
-Place the Power BI report file in this folder with the following name:
+The report file is available here:
 
-`Customer_Churn_Dashboard.pbix`
+[`Customer_Churn_Dashboard.pbix`](Customer_Churn_Dashboard.pbix)
 
-After adding it, open the file in Power BI Desktop and refresh the data source if prompted.
+Download the file and open it in Power BI Desktop. If prompted, update the data source to the project CSV or your SQL Server table, then refresh the model.
+
+A dashboard preview is available in the main repository README.
