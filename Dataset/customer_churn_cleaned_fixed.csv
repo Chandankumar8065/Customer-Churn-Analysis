@@ -1,0 +1,1000 @@
+CustomerID,Gender,SeniorCitizen,Partner,Dependents,TenureMonths,ContractType,InternetService,PaymentMethod,PaperlessBilling,MonthlyCharges,TotalCharges,SupportTickets,Churn,SignupChannel,SatisfactionScore,TenureGroup
+CUST0001,Male,0,0,0,37,Month-to-month,Fiber optic,Bank transfer,1,63.06000137,2380.090088,2,0,Website,4,25-48 months
+CUST0002,Female,0,0,0,49,Month-to-month,Fiber optic,Electronic check,1,96,4907.240234,1,0,Call Center,1,49-72 months
+CUST0003,Female,1,1,1,18,One year,Fiber optic,Bank transfer,0,90.05999756,1531.199951,0,1,Website,4,13-24 months
+CUST0004,Male,0,0,0,14,Month-to-month,No,Credit card,1,51.38000107,698.4199829,1,0,Website,2,13-24 months
+CUST0005,Male,1,0,0,45,Month-to-month,DSL,Credit card,1,64.81999969,3088.550049,0,0,Call Center,5,25-48 months
+CUST0006,Female,0,0,0,28,Month-to-month,Fiber optic,Credit card,0,63.65999985,1784.060059,0,1,Call Center,5,25-48 months
+CUST0007,Male,1,1,0,53,One year,DSL,Electronic check,1,92.20999908,4912.02002,2,0,Call Center,4,49-72 months
+CUST0008,Female,0,1,1,10,Two year,Fiber optic,Bank transfer,1,71.81999969,743.7600098,0,0,Website,4,0-12 months
+CUST0009,Male,0,1,1,8,One year,Fiber optic,Credit card,0,88.09999847,713.5800171,2,0,Call Center,3,0-12 months
+CUST0010,Male,0,1,0,40,Two year,DSL,Bank transfer,1,37.90000153,1411.599976,1,0,Referral,4,25-48 months
+CUST0011,Female,0,1,1,28,One year,DSL,Bank transfer,0,59.45999908,1745.849976,1,0,Website,2,25-48 months
+CUST0012,Female,0,1,0,53,One year,DSL,Electronic check,0,94.20999908,5330.930176,1,0,Call Center,4,49-72 months
+CUST0013,Female,1,0,0,36,Month-to-month,DSL,Bank transfer,0,56.24000168,1879.930054,1,0,Referral,2,25-48 months
+CUST0014,Female,1,1,0,25,One year,DSL,Electronic check,1,73.65000153,2111.77002,2,0,Store,5,25-48 months
+CUST0015,Female,0,0,0,11,Month-to-month,DSL,Electronic check,1,20.71999931,235.2899933,2,1,Website,3,0-12 months
+CUST0016,Female,0,0,0,11,Month-to-month,Fiber optic,Credit card,1,71.69000244,801.7700195,0,1,Website,4,0-12 months
+CUST0017,Female,0,0,0,55,Month-to-month,DSL,Credit card,1,68.23000336,3682.110107,1,1,Call Center,5,49-72 months
+CUST0018,Male,0,1,1,16,Two year,DSL,Credit card,1,110.3399963,1776.530029,2,0,Store,4,13-24 months
+CUST0019,Female,0,0,0,36,One year,Fiber optic,Electronic check,1,58.27999878,2166.340088,2,0,Call Center,4,25-48 months
+CUST0020,Male,0,0,0,59,Two year,Fiber optic,Electronic check,0,98.76000214,5831.009766,2,0,Website,3,49-72 months
+CUST0021,Female,0,0,0,65,Two year,Fiber optic,Electronic check,1,107.25,6569.919922,4,0,Call Center,3,49-72 months
+CUST0022,Male,0,0,1,19,Two year,Fiber optic,Credit card,0,68.12999725,1209.439941,1,0,Call Center,3,13-24 months
+CUST0023,Male,1,0,0,8,Month-to-month,DSL,Bank transfer,0,63.77999878,505.25,0,0,Call Center,5,0-12 months
+CUST0024,Female,0,0,0,56,Two year,Fiber optic,Credit card,0,87.12000275,5208.819824,1,0,Website,3,49-72 months
+CUST0025,Female,1,0,0,50,Two year,DSL,Mailed check,0,39.40999985,1988.719971,6,0,Website,3,49-72 months
+CUST0026,Female,0,1,1,24,Two year,Fiber optic,Bank transfer,0,73.98999786,1735.47998,2,0,Store,4,13-24 months
+CUST0027,Male,0,0,0,43,Month-to-month,Fiber optic,Credit card,1,112.0699997,5134.140137,0,0,Website,3,25-48 months
+CUST0028,Female,0,0,0,13,Month-to-month,Fiber optic,Electronic check,1,95.5,1219.380005,0,0,Website,4,13-24 months
+CUST0029,Female,0,0,0,51,Two year,Fiber optic,Credit card,0,80.55000305,4114.060059,1,0,Call Center,3,49-72 months
+CUST0030,Male,0,0,0,53,Month-to-month,No,Bank transfer,0,36.49000168,1815.300049,2,1,Store,1,49-72 months
+CUST0031,Male,1,1,0,21,Month-to-month,Fiber optic,Electronic check,0,96.77999878,2109.580078,4,0,Call Center,4,13-24 months
+CUST0032,Male,0,0,1,34,Month-to-month,Fiber optic,Electronic check,0,100.9899979,3543.699951,1,0,Call Center,4,25-48 months
+CUST0033,Male,0,1,1,24,Month-to-month,Fiber optic,Credit card,1,71.76000214,1803.319946,0,0,Website,5,13-24 months
+CUST0034,Female,0,1,1,2,Month-to-month,Fiber optic,Bank transfer,1,117.7600021,228.9299927,1,0,Call Center,3,0-12 months
+CUST0035,Female,0,1,0,9,Two year,DSL,Credit card,0,100.9599991,899.3400269,1,0,Website,2,0-12 months
+CUST0036,Male,0,1,0,70,Two year,DSL,Credit card,1,86.90000153,5760.200195,1,0,Referral,3,49-72 months
+CUST0037,Female,0,1,0,33,Two year,Fiber optic,Mailed check,1,65.44999695,2320.370117,0,0,Referral,3,25-48 months
+CUST0038,Female,0,1,1,10,Month-to-month,DSL,Credit card,0,49.56000137,462.7799988,1,1,Website,4,0-12 months
+CUST0039,Male,0,0,0,3,Month-to-month,DSL,Credit card,1,64.80999756,199.0700073,1,1,Store,3,0-12 months
+CUST0040,Female,1,0,0,25,Month-to-month,DSL,Electronic check,1,73.33999634,1893.709961,0,0,Website,4,25-48 months
+CUST0041,Male,0,1,1,71,Month-to-month,DSL,Electronic check,0,33.09000015,2220.72998,0,0,Call Center,5,49-72 months
+CUST0042,Female,0,0,0,28,Month-to-month,Fiber optic,Electronic check,1,94.87999725,2599.389893,3,0,Call Center,3,25-48 months
+CUST0043,Female,0,1,0,72,One year,DSL,Electronic check,0,100.3199997,6695.040039,1,0,Store,4,49-72 months
+CUST0044,Male,0,0,0,35,Two year,DSL,Mailed check,1,84.68000031,2990.639893,0,0,Website,3,25-48 months
+CUST0045,Male,0,1,0,55,Month-to-month,Fiber optic,Credit card,0,69.12999725,4103.240234,1,0,Store,5,49-72 months
+CUST0046,Female,1,0,0,57,Month-to-month,No,Electronic check,1,18,1014.48999,1,0,Store,3,49-72 months
+CUST0047,Male,0,1,0,2,Month-to-month,No,Mailed check,1,40.59999847,87.56999969,1,0,Referral,4,0-12 months
+CUST0048,Female,0,0,1,0,Month-to-month,Fiber optic,Bank transfer,1,80.62999725,0,1,0,Referral,3,0-12 months
+CUST0049,Female,0,1,0,67,Month-to-month,DSL,Electronic check,1,81.75,5383,2,1,Referral,1,49-72 months
+CUST0050,Female,0,0,0,68,Month-to-month,DSL,Credit card,1,85.23999786,6169.109863,0,0,Call Center,3,49-72 months
+CUST0051,Female,0,1,0,9,Month-to-month,DSL,Credit card,0,96.01999664,916.2700195,0,1,Website,3,0-12 months
+CUST0052,Male,1,0,0,47,Month-to-month,DSL,Electronic check,0,47.09000015,2150.76001,0,0,Store,5,25-48 months
+CUST0053,Male,0,0,0,67,Two year,DSL,Electronic check,1,76.87999725,5298.160156,0,0,Referral,3,49-72 months
+CUST0054,Male,0,0,0,69,Month-to-month,DSL,Credit card,0,64,4688.850098,0,0,Store,5,49-72 months
+CUST0055,Male,1,0,0,21,Month-to-month,DSL,Electronic check,0,69.83000183,1529.050049,4,1,Website,4,13-24 months
+CUST0056,Male,0,0,1,59,Month-to-month,Fiber optic,Electronic check,0,103.0199966,6203.120117,4,1,Call Center,3,49-72 months
+CUST0057,Female,1,1,0,47,Month-to-month,Fiber optic,Credit card,1,105.4100037,4678.870117,1,0,Referral,3,25-48 months
+CUST0058,Male,0,1,1,67,One year,No,Credit card,1,64.76999664,4043.110107,0,0,Call Center,2,49-72 months
+CUST0059,Female,0,1,1,10,Two year,DSL,Bank transfer,0,81.36000061,828.5200195,1,1,Website,5,0-12 months
+CUST0060,Female,0,1,1,43,Two year,Fiber optic,Bank transfer,1,81.58000183,3508.090088,0,0,Store,2,25-48 months
+CUST0061,Female,0,0,0,1,One year,No,Credit card,1,28.44000053,27.25,0,0,Store,5,0-12 months
+CUST0062,Female,1,0,0,26,Month-to-month,DSL,Bank transfer,0,33.84000015,850.6699829,0,0,Call Center,1,25-48 months
+CUST0063,Male,0,0,0,0,Month-to-month,DSL,Bank transfer,1,101.4700012,0,2,1,Website,3,0-12 months
+CUST0064,Female,0,0,0,32,Month-to-month,Fiber optic,Credit card,0,76.91999817,2459.679932,1,0,Store,2,25-48 months
+CUST0065,Male,0,0,0,59,Month-to-month,DSL,Bank transfer,1,83.12999725,4818.549805,2,0,Website,4,49-72 months
+CUST0066,Male,0,0,0,48,Two year,Fiber optic,Bank transfer,0,98.94000244,4663.47998,1,0,Referral,4,25-48 months
+CUST0067,Female,0,0,0,23,Month-to-month,Fiber optic,Mailed check,0,56.59999847,1221.76001,3,0,Website,5,13-24 months
+CUST0068,Male,1,1,1,31,Month-to-month,DSL,Bank transfer,0,51.68999863,1696.119995,3,1,Website,3,25-48 months
+CUST0069,Male,0,0,0,26,Month-to-month,No,Bank transfer,0,68.02999878,1799.670044,1,0,Call Center,1,25-48 months
+CUST0070,Male,0,0,0,53,Month-to-month,Fiber optic,Mailed check,0,90.38999939,4519.399902,0,0,Store,4,49-72 months
+CUST0071,Female,0,1,1,19,Two year,No,Mailed check,1,21.22999954,398.4599915,1,0,Call Center,4,13-24 months
+CUST0072,Male,0,1,0,6,Month-to-month,No,Credit card,0,31.21999931,184.8200073,0,0,Store,5,0-12 months
+CUST0073,Male,1,0,0,36,Month-to-month,Fiber optic,Mailed check,0,107.9000015,3946.939941,4,1,Store,3,25-48 months
+CUST0074,Male,0,0,0,60,Month-to-month,Fiber optic,Electronic check,1,104.5500031,6382.27002,1,1,Website,4,49-72 months
+CUST0075,Female,0,0,0,34,Two year,DSL,Electronic check,1,39.75,1382.900024,0,0,Call Center,2,25-48 months
+CUST0076,Male,0,0,1,14,Month-to-month,DSL,Electronic check,1,107.9499969,1559.150024,1,0,Website,5,13-24 months
+CUST0077,Male,1,1,1,3,One year,Fiber optic,Credit card,1,105.2600021,295.7399902,1,0,Website,2,0-12 months
+CUST0078,Male,0,1,0,68,Month-to-month,DSL,Mailed check,0,68.65000153,4522.490234,0,0,Store,5,49-72 months
+CUST0079,Female,0,0,0,55,Month-to-month,DSL,Electronic check,1,45.77999878,2323.459961,0,0,Store,3,49-72 months
+CUST0080,Female,0,0,0,11,Two year,DSL,Credit card,1,95.19000244,1039.48999,1,0,Website,4,0-12 months
+CUST0081,Female,0,0,1,5,Month-to-month,DSL,Electronic check,1,82.48000336,407.7399902,1,1,Store,5,0-12 months
+CUST0082,Male,0,0,0,9,Month-to-month,Fiber optic,Electronic check,1,51.93000031,484.8900146,1,1,Store,5,0-12 months
+CUST0083,Male,0,1,0,27,One year,Fiber optic,Credit card,0,78.88999939,2016.579956,1,0,Referral,3,25-48 months
+CUST0084,Female,0,0,0,59,Month-to-month,Fiber optic,Bank transfer,1,125,7530.160156,0,0,Store,3,49-72 months
+CUST0085,Female,0,1,0,11,Month-to-month,No,Credit card,1,34.36000061,366.269989,1,0,Store,5,0-12 months
+CUST0086,Female,0,1,1,59,Two year,No,Credit card,1,18,1041.939941,1,0,Referral,4,49-72 months
+CUST0087,Male,0,1,1,0,Month-to-month,DSL,Credit card,0,49.81000137,0,0,1,Website,4,0-12 months
+CUST0088,Male,1,1,0,53,Month-to-month,Fiber optic,Electronic check,0,122.9899979,6071.609863,0,0,Referral,3,49-72 months
+CUST0089,Female,0,0,0,20,Month-to-month,DSL,Credit card,1,90.65000153,1767.390015,2,0,Call Center,3,13-24 months
+CUST0090,Female,0,1,0,70,One year,Fiber optic,Bank transfer,1,114.9599991,7907.27002,1,0,Referral,3,49-72 months
+CUST0091,Male,0,1,0,34,Month-to-month,Fiber optic,Electronic check,1,89.45999908,3146.639893,3,1,Store,4,25-48 months
+CUST0092,Female,1,0,1,19,Month-to-month,Fiber optic,Credit card,1,111.5899963,2018.180054,2,0,Referral,2,13-24 months
+CUST0093,Female,0,0,1,17,One year,DSL,Mailed check,0,53.34000015,971.6900024,0,0,Store,3,13-24 months
+CUST0094,Male,0,1,0,60,One year,Fiber optic,Credit card,1,87.58000183,5673.299805,3,0,Store,5,49-72 months
+CUST0095,Female,1,1,0,29,Two year,DSL,Bank transfer,1,78.31999969,2387.169922,2,0,Referral,4,25-48 months
+CUST0096,Male,0,1,1,25,Month-to-month,No,Bank transfer,1,64.41000366,1558.650024,1,0,Store,5,25-48 months
+CUST0097,Male,0,0,0,53,Month-to-month,DSL,Electronic check,1,79.01000214,4297.319824,1,0,Call Center,3,49-72 months
+CUST0098,Female,0,1,1,39,Month-to-month,Fiber optic,Credit card,1,70.23999786,2556.649902,1,0,Call Center,3,25-48 months
+CUST0099,Female,0,1,1,48,One year,No,Bank transfer,1,35.40999985,1800.650024,2,0,Call Center,4,25-48 months
+CUST0100,Male,0,1,1,32,Month-to-month,DSL,Electronic check,1,35.11999893,1126.719971,0,0,Website,3,25-48 months
+CUST0101,Female,0,0,0,4,Month-to-month,Fiber optic,Electronic check,1,32.93999863,124.9400024,1,0,Call Center,4,0-12 months
+CUST0102,Male,0,1,1,0,Month-to-month,DSL,Credit card,1,90.29000092,0,1,0,Store,2,0-12 months
+CUST0103,Female,0,0,0,2,Two year,No,Electronic check,0,25.76000023,54,1,1,Referral,4,0-12 months
+CUST0104,Male,1,1,0,41,Two year,Fiber optic,Bank transfer,1,78.25,3398.290039,1,0,Referral,2,25-48 months
+CUST0105,Female,0,0,1,37,Month-to-month,DSL,Bank transfer,1,90.27999878,3350.899902,0,0,Website,4,25-48 months
+CUST0106,Female,0,1,0,54,Two year,Fiber optic,Electronic check,1,114.7300034,6175.899902,1,0,Call Center,5,49-72 months
+CUST0107,Female,0,1,1,65,Two year,Fiber optic,Bank transfer,0,95.76000214,6474.109863,2,0,Call Center,1,49-72 months
+CUST0108,Female,0,1,0,12,Month-to-month,DSL,Electronic check,0,114.4199982,1444.699951,0,1,Website,3,0-12 months
+CUST0109,Male,0,0,0,69,Month-to-month,Fiber optic,Credit card,0,95.05999756,6837.089844,1,0,Store,4,49-72 months
+CUST0110,Female,0,0,0,68,One year,Fiber optic,Credit card,1,90.65000153,6050.209961,0,0,Store,4,49-72 months
+CUST0111,Male,1,1,1,44,Month-to-month,Fiber optic,Electronic check,0,89.29000092,4017.969971,1,0,Website,1,25-48 months
+CUST0112,Female,0,1,1,38,Month-to-month,Fiber optic,Bank transfer,1,55.72000122,2238.429932,0,0,Store,3,25-48 months
+CUST0113,Female,0,0,0,12,Month-to-month,Fiber optic,Bank transfer,0,105.0299988,1190.130005,1,1,Call Center,4,0-12 months
+CUST0114,Male,1,0,0,13,Two year,DSL,Credit card,0,18.20000076,232.3699951,0,0,Referral,4,13-24 months
+CUST0115,Female,0,1,0,1,Month-to-month,Fiber optic,Mailed check,1,71.09999847,66.05999756,2,0,Store,4,0-12 months
+CUST0116,Female,0,1,0,47,One year,Fiber optic,Bank transfer,1,84.5,3913.600098,0,0,Call Center,3,25-48 months
+CUST0117,Male,0,0,0,31,Month-to-month,No,Credit card,1,18,582.3099976,1,0,Referral,5,25-48 months
+CUST0118,Male,0,0,0,14,Month-to-month,No,Electronic check,1,24.05999947,320.5100098,1,1,Website,1,13-24 months
+CUST0119,Male,0,0,0,9,Two year,Fiber optic,Bank transfer,0,124.4700012,1127.73999,2,0,Referral,2,0-12 months
+CUST0120,Male,1,0,0,4,Month-to-month,Fiber optic,Electronic check,1,108.2900009,401.0400085,0,0,Website,4,0-12 months
+CUST0121,Male,0,0,0,46,Month-to-month,Fiber optic,Bank transfer,0,68.91000366,3371.540039,0,0,Referral,3,25-48 months
+CUST0122,Female,0,1,1,50,Month-to-month,Fiber optic,Mailed check,0,73.66999817,3872.100098,0,0,Store,4,49-72 months
+CUST0123,Female,0,1,1,46,One year,Fiber optic,Credit card,1,73.65000153,2581.899902,2,0,Website,3,25-48 months
+CUST0124,Male,1,1,0,8,Month-to-month,No,Mailed check,1,49.50999832,409.1199951,0,0,Store,3,0-12 months
+CUST0125,Female,0,1,1,3,Month-to-month,DSL,Electronic check,1,66.51000214,186.8899994,2,1,Call Center,4,0-12 months
+CUST0126,Female,0,1,1,7,Month-to-month,Fiber optic,Credit card,0,40.74000168,300.9299927,2,0,Referral,3,0-12 months
+CUST0127,Male,0,1,0,54,Month-to-month,No,Credit card,1,36.22000122,2023.23999,1,0,Call Center,4,49-72 months
+CUST0128,Female,0,0,0,54,Month-to-month,Fiber optic,Bank transfer,1,93.66000366,4750.109863,0,0,Referral,4,49-72 months
+CUST0129,Female,0,1,0,21,Month-to-month,Fiber optic,Credit card,1,105.1900024,2378.879883,1,0,Store,4,13-24 months
+CUST0130,Female,0,1,0,4,Month-to-month,Fiber optic,Electronic check,0,82.38999939,304.3800049,2,1,Website,4,0-12 months
+CUST0131,Female,0,0,1,23,Month-to-month,Fiber optic,Bank transfer,1,75.80000305,1779.25,1,0,Referral,5,13-24 months
+CUST0132,Female,0,0,0,59,One year,No,Electronic check,1,77.69999695,4343.540039,0,0,Call Center,5,49-72 months
+CUST0133,Male,0,0,1,10,One year,Fiber optic,Electronic check,0,84.13999939,870.9199829,1,0,Store,1,0-12 months
+CUST0134,Female,0,0,0,58,Month-to-month,DSL,Credit card,1,87.83000183,4743.990234,1,0,Store,4,49-72 months
+CUST0135,Female,0,0,0,33,Month-to-month,Fiber optic,Credit card,1,72.12999725,2220.75,2,0,Store,5,25-48 months
+CUST0136,Male,0,1,0,10,Month-to-month,No,Electronic check,1,49.18000031,489.1499939,2,0,Website,4,0-12 months
+CUST0137,Female,0,1,0,68,Two year,DSL,Electronic check,1,39.97999954,2933.530029,1,0,Call Center,3,49-72 months
+CUST0138,Male,0,0,1,37,Month-to-month,DSL,Credit card,1,61.83000183,2205.909912,0,0,Referral,2,25-48 months
+CUST0139,Male,0,1,0,49,Month-to-month,Fiber optic,Electronic check,0,57.41999817,2864.23999,1,0,Website,4,49-72 months
+CUST0140,Male,0,1,1,7,Month-to-month,No,Electronic check,0,20.69000053,145.2599945,2,1,Call Center,4,0-12 months
+CUST0141,Female,0,1,1,27,Month-to-month,DSL,Electronic check,1,99.51000214,2833.840088,0,1,Website,5,25-48 months
+CUST0142,Male,0,1,1,46,Month-to-month,Fiber optic,Electronic check,1,70.52999878,3134.639893,0,0,Call Center,5,25-48 months
+CUST0143,Female,1,1,0,47,Month-to-month,No,Electronic check,1,49.79999924,2361.179932,0,0,Referral,3,25-48 months
+CUST0144,Male,0,1,1,4,One year,Fiber optic,Credit card,0,117.3799973,503.3699951,1,0,Website,4,0-12 months
+CUST0145,Female,0,0,0,44,One year,Fiber optic,Mailed check,0,83.38999939,3570.879883,2,0,Website,4,25-48 months
+CUST0146,Female,0,0,0,68,One year,DSL,Bank transfer,0,93.86000061,6320.600098,0,0,Store,2,49-72 months
+CUST0147,Male,0,1,0,57,One year,Fiber optic,Credit card,0,95.68000031,5793.040039,0,0,Store,1,49-72 months
+CUST0148,Male,0,0,0,15,Month-to-month,Fiber optic,Bank transfer,0,86.55999756,1263.599976,2,1,Website,5,13-24 months
+CUST0149,Female,0,1,0,66,Two year,Fiber optic,Credit card,0,100.5100021,6507.009766,2,0,Referral,2,49-72 months
+CUST0150,Male,1,0,0,49,One year,Fiber optic,Bank transfer,1,124.4800034,5908.359863,1,1,Website,4,49-72 months
+CUST0151,Female,0,0,0,4,Two year,Fiber optic,Bank transfer,0,69.98000336,293.7799988,1,0,Store,3,0-12 months
+CUST0152,Male,0,1,0,9,One year,Fiber optic,Bank transfer,0,62.90000153,605.0800171,0,0,Call Center,3,0-12 months
+CUST0153,Female,0,0,0,67,Month-to-month,No,Credit card,1,18,1231.300049,0,0,Referral,4,49-72 months
+CUST0154,Male,0,0,1,15,Month-to-month,DSL,Bank transfer,1,93.87999725,1436.060059,2,0,Call Center,1,13-24 months
+CUST0155,Male,0,0,0,7,Month-to-month,DSL,Credit card,1,96.84999847,666.0200195,1,0,Referral,3,0-12 months
+CUST0156,Female,0,0,0,32,Month-to-month,Fiber optic,Electronic check,1,72.19000244,2129.889893,0,0,Website,3,25-48 months
+CUST0157,Male,0,0,0,38,Month-to-month,DSL,Bank transfer,0,25.01000023,900.7999878,1,0,Referral,5,25-48 months
+CUST0158,Female,1,1,1,41,Month-to-month,Fiber optic,Credit card,1,69.16000366,2675.610107,2,1,Call Center,4,25-48 months
+CUST0159,Female,0,0,0,48,Month-to-month,Fiber optic,Electronic check,1,96.05000305,4327.049805,4,0,Call Center,5,25-48 months
+CUST0160,Female,0,0,0,72,Two year,DSL,Credit card,1,70.52999878,5203.319824,0,0,Store,3,49-72 months
+CUST0161,Female,0,0,0,55,One year,Fiber optic,Electronic check,0,87.97000122,4556.830078,1,0,Referral,2,49-72 months
+CUST0162,Female,0,1,0,1,One year,DSL,Electronic check,1,60.49000168,56.47999954,2,0,Call Center,3,0-12 months
+CUST0163,Male,0,0,0,6,Month-to-month,No,Credit card,0,56.31000137,331.5100098,0,1,Store,5,0-12 months
+CUST0164,Male,0,1,0,0,One year,DSL,Electronic check,1,79.55000305,0,2,1,Call Center,3,0-12 months
+CUST0165,Male,1,0,0,28,Two year,Fiber optic,Mailed check,1,96.90000153,2559.459961,0,0,Store,2,25-48 months
+CUST0166,Female,0,1,0,25,One year,Fiber optic,Mailed check,1,87.5,2063.639893,3,0,Store,5,25-48 months
+CUST0167,Male,0,0,0,68,One year,Fiber optic,Credit card,1,95.54000092,6243.299805,3,0,Call Center,5,49-72 months
+CUST0168,Male,0,0,0,26,Month-to-month,DSL,Mailed check,0,82.08999634,2146.919922,1,1,Call Center,2,25-48 months
+CUST0169,Male,0,1,1,2,Month-to-month,No,Bank transfer,0,18,37.49000168,2,1,Store,4,0-12 months
+CUST0170,Female,0,0,0,64,One year,No,Credit card,1,42.20999908,2853.919922,3,0,Website,4,49-72 months
+CUST0171,Male,0,1,0,18,Two year,Fiber optic,Bank transfer,1,101.4100037,1898.810059,1,0,Referral,4,13-24 months
+CUST0172,Male,0,0,1,66,Month-to-month,DSL,Credit card,0,97.41000366,6560.950195,2,0,Store,4,49-72 months
+CUST0173,Female,0,0,0,56,Month-to-month,DSL,Credit card,0,81.15000153,4840.790039,2,0,Store,5,49-72 months
+CUST0174,Female,1,1,0,64,Month-to-month,DSL,Mailed check,1,50.75999832,3258.899902,1,0,Referral,2,49-72 months
+CUST0175,Female,0,1,0,59,Month-to-month,DSL,Credit card,0,54.15000153,3263.02002,2,0,Website,4,49-72 months
+CUST0176,Male,1,1,1,10,Two year,Fiber optic,Bank transfer,1,74.43000031,733.7800293,1,0,Call Center,4,0-12 months
+CUST0177,Female,0,1,0,45,One year,Fiber optic,Electronic check,1,88.16999817,3858.070068,0,0,Call Center,4,25-48 months
+CUST0178,Male,0,0,0,30,Month-to-month,No,Electronic check,0,31.30999947,914.0100098,1,0,Website,4,25-48 months
+CUST0179,Female,0,0,0,45,Month-to-month,Fiber optic,Bank transfer,0,59.27999878,2517.5,2,0,Referral,4,25-48 months
+CUST0180,Female,1,1,0,54,Month-to-month,Fiber optic,Electronic check,0,59.15000153,3345.679932,2,0,Referral,5,49-72 months
+CUST0181,Female,0,0,0,36,Month-to-month,Fiber optic,Bank transfer,1,37.83000183,1264.98999,2,0,Call Center,4,25-48 months
+CUST0182,Male,1,1,1,22,Month-to-month,Fiber optic,Mailed check,1,18,407.0700073,0,0,Call Center,4,13-24 months
+CUST0183,Male,0,0,0,66,Two year,No,Bank transfer,0,31.10000038,2172.290039,1,0,Referral,3,49-72 months
+CUST0184,Female,0,1,1,48,One year,Fiber optic,Electronic check,1,125,5997.529785,2,0,Referral,5,25-48 months
+CUST0185,Male,1,0,0,64,Month-to-month,Fiber optic,Credit card,1,123.5299988,7362.25,2,1,Referral,3,49-72 months
+CUST0186,Male,0,0,0,17,One year,DSL,Mailed check,0,50.47999954,848.3300171,2,0,Website,3,13-24 months
+CUST0187,Male,0,1,0,61,One year,DSL,Electronic check,1,75.30000305,4478.080078,2,0,Referral,4,49-72 months
+CUST0188,Male,0,0,0,23,Month-to-month,Fiber optic,Electronic check,1,51.77999878,1283.459961,2,0,Referral,3,13-24 months
+CUST0189,Male,0,0,0,33,One year,Fiber optic,Bank transfer,1,55.13000107,1874.959961,1,0,Website,4,25-48 months
+CUST0190,Male,0,1,1,62,One year,Fiber optic,Bank transfer,0,57.65999985,3701.530029,0,0,Store,3,49-72 months
+CUST0191,Female,0,1,1,25,Two year,Fiber optic,Bank transfer,1,79.04000092,1981,0,0,Call Center,3,25-48 months
+CUST0192,Female,0,0,0,18,Month-to-month,Fiber optic,Electronic check,1,79.98999786,1488.060059,1,0,Referral,5,13-24 months
+CUST0193,Female,0,1,0,66,Month-to-month,Fiber optic,Credit card,1,89.55999756,6121.459961,0,1,Referral,5,49-72 months
+CUST0194,Male,0,1,0,70,Month-to-month,DSL,Electronic check,1,86.58999634,5640.75,1,0,Referral,4,49-72 months
+CUST0195,Female,0,1,0,22,Month-to-month,DSL,Electronic check,1,64.58999634,1357.910034,0,0,Website,5,13-24 months
+CUST0196,Male,0,0,0,22,Month-to-month,No,Credit card,1,34.79999924,705.9400024,0,0,Store,3,13-24 months
+CUST0197,Male,0,1,0,16,One year,Fiber optic,Bank transfer,1,59.93999863,960.539978,3,0,Referral,3,13-24 months
+CUST0198,Male,0,1,1,1,Month-to-month,Fiber optic,Bank transfer,1,54.41999817,57.68999863,2,1,Call Center,5,0-12 months
+CUST0199,Male,0,0,0,40,Month-to-month,No,Mailed check,1,18,732.6199951,0,0,Referral,4,25-48 months
+CUST0200,Female,0,0,0,18,Two year,DSL,Mailed check,1,86.27999878,1553.089966,1,0,Call Center,4,13-24 months
+CUST0201,Male,0,0,0,61,Month-to-month,DSL,Bank transfer,1,64.56999969,4207.220215,0,1,Referral,3,49-72 months
+CUST0202,Female,0,1,0,12,Month-to-month,Fiber optic,Electronic check,1,42.84000015,487.1199951,2,0,Website,3,0-12 months
+CUST0203,Male,1,0,1,46,Month-to-month,Fiber optic,Electronic check,0,82.61000061,3541.419922,0,0,Referral,2,25-48 months
+CUST0204,Female,0,0,0,36,Month-to-month,DSL,Credit card,0,44.52999878,1710.119995,3,1,Call Center,5,25-48 months
+CUST0205,Male,0,1,0,44,Month-to-month,DSL,Bank transfer,1,108.5299988,5083.069824,1,0,Referral,3,25-48 months
+CUST0206,Male,0,0,0,8,One year,Fiber optic,Mailed check,0,71.26999664,586.8499756,3,0,Call Center,4,0-12 months
+CUST0207,Female,0,0,0,34,Month-to-month,No,Electronic check,0,48.99000168,1597.959961,2,0,Store,2,25-48 months
+CUST0208,Female,0,1,1,45,Month-to-month,DSL,Credit card,1,95.95999908,4642.77002,0,0,Store,4,25-48 months
+CUST0209,Male,0,1,1,24,Month-to-month,DSL,Electronic check,1,50.99000168,1275.719971,2,1,Call Center,3,13-24 months
+CUST0210,Female,1,0,0,63,Two year,Fiber optic,Electronic check,0,85.66999817,5547.379883,1,0,Store,4,49-72 months
+CUST0211,Male,0,1,1,38,Month-to-month,DSL,Electronic check,1,84.18000031,3057.02002,0,0,Store,4,25-48 months
+CUST0212,Female,0,1,0,26,One year,DSL,Bank transfer,1,74.54000092,1942.099976,0,0,Website,2,25-48 months
+CUST0213,Female,1,1,0,2,Month-to-month,Fiber optic,Bank transfer,0,91.94000244,193.3699951,0,1,Store,1,0-12 months
+CUST0214,Male,0,1,0,12,One year,DSL,Electronic check,1,42.75,542.5700073,0,0,Store,3,0-12 months
+CUST0215,Female,0,1,1,34,Month-to-month,DSL,Electronic check,0,84.19000244,2890.590088,1,0,Website,4,25-48 months
+CUST0216,Male,1,0,0,29,Month-to-month,DSL,Bank transfer,1,61.29999924,1784.180054,0,1,Store,5,25-48 months
+CUST0217,Male,1,1,1,63,Month-to-month,Fiber optic,Bank transfer,1,91.69000244,5959.180176,1,1,Store,3,49-72 months
+CUST0218,Male,0,1,1,57,One year,No,Bank transfer,1,54.24000168,3105.649902,1,0,Referral,4,49-72 months
+CUST0219,Male,0,0,1,11,Month-to-month,Fiber optic,Electronic check,1,98.70999908,1071.51001,0,1,Website,3,0-12 months
+CUST0220,Female,0,1,1,43,Month-to-month,Fiber optic,Bank transfer,0,91.66999817,3680.340088,1,1,Website,5,25-48 months
+CUST0221,Male,0,0,0,33,Month-to-month,Fiber optic,Credit card,0,98.12999725,3044.540039,0,0,Website,5,25-48 months
+CUST0222,Male,0,1,0,7,Month-to-month,Fiber optic,Bank transfer,0,99.15000153,722.9500122,0,1,Website,4,0-12 months
+CUST0223,Female,0,1,0,48,One year,Fiber optic,Electronic check,1,116.9000015,5184.450195,1,0,Website,2,25-48 months
+CUST0224,Male,0,1,0,39,Month-to-month,DSL,Bank transfer,1,71.25,2579.699951,1,0,Store,3,25-48 months
+CUST0225,Female,0,1,1,6,Month-to-month,DSL,Mailed check,1,75.61000061,483.0299988,0,0,Referral,5,0-12 months
+CUST0226,Male,0,1,0,34,Month-to-month,Fiber optic,Electronic check,1,104.5100021,3669.320068,1,0,Website,3,25-48 months
+CUST0227,Female,0,0,0,53,Month-to-month,No,Electronic check,0,23.20999908,1132.550049,0,0,Website,4,49-72 months
+CUST0228,Female,0,1,1,23,Month-to-month,Fiber optic,Credit card,1,54.61999893,1218.47998,1,0,Store,5,13-24 months
+CUST0229,Female,1,0,0,26,Month-to-month,DSL,Mailed check,1,82.84999847,2244.850098,1,0,Call Center,4,25-48 months
+CUST0230,Male,0,0,1,8,Month-to-month,No,Credit card,1,29.46999931,232.6499939,2,0,Call Center,4,0-12 months
+CUST0231,Male,0,1,0,14,Two year,DSL,Bank transfer,0,45.43000031,632.8400269,0,0,Call Center,4,13-24 months
+CUST0232,Female,0,0,0,71,Month-to-month,DSL,Bank transfer,1,83.01000214,5854.859863,2,0,Referral,5,49-72 months
+CUST0233,Male,0,1,0,45,Two year,DSL,Electronic check,0,103.4800034,4434.669922,1,0,Store,3,25-48 months
+CUST0234,Female,0,1,1,12,Month-to-month,Fiber optic,Bank transfer,0,48.15000153,598.2700195,1,1,Website,5,0-12 months
+CUST0235,Male,0,1,1,35,Month-to-month,Fiber optic,Electronic check,0,106.4899979,3490.409912,1,1,Website,3,25-48 months
+CUST0236,Female,0,0,0,14,Month-to-month,Fiber optic,Bank transfer,1,28.18000031,394.980011,1,1,Website,4,13-24 months
+CUST0237,Female,0,0,0,32,Month-to-month,Fiber optic,Electronic check,1,75.19000244,2279.02002,4,0,Website,5,25-48 months
+CUST0238,Male,1,1,1,10,One year,Fiber optic,Mailed check,1,124.4899979,1154.579956,1,0,Referral,4,0-12 months
+CUST0239,Male,0,0,0,45,Two year,Fiber optic,Bank transfer,0,76.77999878,3257.879883,2,0,Website,3,25-48 months
+CUST0240,Female,0,0,0,41,One year,No,Electronic check,0,35.97999954,1562.349976,2,0,Call Center,1,25-48 months
+CUST0241,Male,0,1,0,46,One year,No,Electronic check,1,50.77999878,2214.840088,2,0,Store,5,25-48 months
+CUST0242,Female,0,0,0,32,Month-to-month,DSL,Credit card,1,34.24000168,1056.829956,3,1,Store,4,25-48 months
+CUST0243,Male,0,0,0,20,Month-to-month,DSL,Electronic check,1,73.58999634,1386.579956,2,0,Website,3,13-24 months
+CUST0244,Female,0,0,0,18,One year,Fiber optic,Electronic check,0,85.41000366,1595.319946,3,1,Call Center,5,13-24 months
+CUST0245,Female,0,0,1,15,Month-to-month,Fiber optic,Electronic check,1,124.9700012,1858.189941,2,0,Website,4,13-24 months
+CUST0246,Male,1,1,0,31,Month-to-month,DSL,Mailed check,1,44.81000137,1487.709961,1,0,Call Center,5,25-48 months
+CUST0247,Female,0,1,1,32,Two year,DSL,Bank transfer,0,63.61000061,2089.040039,0,0,Store,4,25-48 months
+CUST0248,Male,0,0,0,49,Two year,Fiber optic,Electronic check,1,63.58000183,3131.070068,3,0,Website,5,49-72 months
+CUST0249,Female,0,1,0,3,One year,Fiber optic,Bank transfer,1,61.24000168,188.3200073,1,0,Website,5,0-12 months
+CUST0250,Male,1,1,0,20,Month-to-month,DSL,Bank transfer,1,96.80000305,1793.640015,1,0,Store,2,13-24 months
+CUST0251,Male,0,0,0,62,Two year,Fiber optic,Electronic check,1,84.58999634,5622.740234,1,0,Call Center,5,49-72 months
+CUST0252,Male,0,1,0,66,Month-to-month,Fiber optic,Electronic check,0,71.77999878,5083.450195,2,0,Referral,4,49-72 months
+CUST0253,Male,1,1,1,67,Month-to-month,Fiber optic,Credit card,1,72.61000061,4690.620117,1,0,Website,5,49-72 months
+CUST0254,Male,1,0,0,22,Month-to-month,DSL,Electronic check,1,59.61000061,1338.339966,2,1,Referral,4,13-24 months
+CUST0255,Female,0,1,1,10,Two year,No,Mailed check,1,23.57999992,224.5500031,2,1,Referral,4,0-12 months
+CUST0256,Male,0,1,0,14,Two year,DSL,Electronic check,1,44.18000031,623.2199707,2,0,Referral,3,13-24 months
+CUST0257,Female,0,0,0,9,One year,DSL,Electronic check,0,66.30999756,622.6500244,1,0,Call Center,1,0-12 months
+CUST0258,Male,1,1,1,69,Month-to-month,DSL,Bank transfer,1,64.09999847,4734.149902,2,0,Referral,3,49-72 months
+CUST0259,Male,0,1,0,64,Month-to-month,Fiber optic,Bank transfer,1,67.33000183,4198.27002,3,0,Website,4,49-72 months
+CUST0260,Female,0,1,1,59,Month-to-month,DSL,Mailed check,1,75.41000366,4586.939941,0,0,Store,4,49-72 months
+CUST0261,Female,0,0,0,53,Two year,DSL,Electronic check,1,77.27999878,4237.669922,1,0,Store,1,49-72 months
+CUST0262,Male,0,1,0,25,Month-to-month,DSL,Electronic check,1,59.75,1427.099976,1,1,Store,3,25-48 months
+CUST0263,Male,0,0,0,34,Month-to-month,Fiber optic,Credit card,1,80.83000183,2804.959961,1,0,Store,4,25-48 months
+CUST0264,Female,0,1,0,61,One year,No,Credit card,0,81.48999786,5094.5,1,0,Referral,3,49-72 months
+CUST0265,Female,0,1,1,59,Month-to-month,No,Electronic check,1,80.65000153,4959.399902,1,0,Referral,2,49-72 months
+CUST0266,Female,1,0,0,37,Two year,Fiber optic,Bank transfer,1,60.81000137,2429.949951,1,0,Website,2,25-48 months
+CUST0267,Male,1,0,0,61,Month-to-month,Fiber optic,Mailed check,1,63.88000107,3610.030029,1,0,Website,4,49-72 months
+CUST0268,Male,0,0,0,25,Two year,Fiber optic,Bank transfer,0,60.68999863,1444.97998,2,0,Store,4,25-48 months
+CUST0269,Female,0,1,0,30,Month-to-month,DSL,Bank transfer,1,95.26000214,2695.51001,0,1,Referral,5,25-48 months
+CUST0270,Female,0,0,0,61,Month-to-month,DSL,Credit card,0,63.22999954,3643.77002,1,0,Store,3,49-72 months
+CUST0271,Male,0,0,0,27,Month-to-month,Fiber optic,Electronic check,1,89.26999664,2392.649902,1,1,Call Center,2,25-48 months
+CUST0272,Male,0,1,0,54,Month-to-month,DSL,Mailed check,0,115.9300003,6639.379883,3,0,Store,4,49-72 months
+CUST0273,Male,1,1,0,33,One year,Fiber optic,Credit card,0,83.76999664,2741.72998,3,0,Website,5,25-48 months
+CUST0274,Female,0,0,1,21,Month-to-month,Fiber optic,Electronic check,1,99.54000092,2146.689941,3,0,Website,3,13-24 months
+CUST0275,Male,0,1,0,15,Month-to-month,Fiber optic,Electronic check,1,95.44999695,1403.459961,1,0,Website,5,13-24 months
+CUST0276,Male,1,0,0,44,One year,DSL,Bank transfer,1,59.06000137,2523.659912,1,0,Referral,4,25-48 months
+CUST0277,Male,0,0,0,35,Month-to-month,DSL,Credit card,0,95.30000305,3513.870117,1,0,Website,5,25-48 months
+CUST0278,Female,0,1,0,26,One year,Fiber optic,Bank transfer,0,65.30999756,1740.319946,0,0,Call Center,3,25-48 months
+CUST0279,Male,0,1,1,54,One year,Fiber optic,Credit card,1,113.4800034,5981.72998,0,0,Referral,2,49-72 months
+CUST0280,Male,0,1,1,0,Month-to-month,No,Bank transfer,1,21.07999992,0,0,1,Store,2,0-12 months
+CUST0281,Male,0,1,0,6,One year,DSL,Electronic check,1,61.47999954,368.7900085,2,0,Website,4,0-12 months
+CUST0282,Male,0,1,1,70,Month-to-month,No,Bank transfer,1,18,1197.160034,2,0,Website,5,49-72 months
+CUST0283,Female,1,0,0,48,Month-to-month,DSL,Credit card,0,51.66999817,2473.5,1,0,Website,3,25-48 months
+CUST0284,Male,0,1,1,40,Month-to-month,DSL,Credit card,1,62.61000061,2574.399902,0,1,Referral,1,25-48 months
+CUST0285,Male,0,0,0,1,Two year,Fiber optic,Electronic check,1,30.51000023,29.86000061,2,0,Referral,1,0-12 months
+CUST0286,Female,0,1,0,43,One year,DSL,Electronic check,0,66.87000275,3033.570068,1,0,Referral,4,25-48 months
+CUST0287,Male,0,1,0,31,Month-to-month,Fiber optic,Credit card,0,72.81999969,2269.389893,1,0,Call Center,5,25-48 months
+CUST0288,Female,0,1,0,43,Two year,Fiber optic,Electronic check,0,101.3799973,4336.859863,1,0,Store,3,25-48 months
+CUST0289,Female,0,0,0,2,Month-to-month,Fiber optic,Electronic check,1,93.30999756,197.3300018,1,0,Store,4,0-12 months
+CUST0290,Male,0,1,0,40,Two year,Fiber optic,Credit card,0,68.43000031,2720.959961,0,0,Website,4,25-48 months
+CUST0291,Female,0,1,1,42,One year,No,Bank transfer,1,23.90999985,990.4699707,1,0,Referral,5,25-48 months
+CUST0292,Male,1,0,0,21,Two year,No,Electronic check,1,28.84000015,567.2399902,2,0,Store,5,13-24 months
+CUST0293,Female,0,0,0,3,Two year,DSL,Electronic check,1,104.6900024,307.1600037,2,0,Store,2,0-12 months
+CUST0294,Male,0,1,0,70,Two year,Fiber optic,Electronic check,0,65.91000366,4537.700195,2,0,Call Center,4,49-72 months
+CUST0295,Female,0,0,0,51,Month-to-month,No,Credit card,1,18.17000008,879.3200073,0,0,Referral,5,49-72 months
+CUST0296,Female,1,1,0,45,One year,DSL,Bank transfer,0,47.16999817,2152.47998,0,0,Referral,5,25-48 months
+CUST0297,Female,0,1,0,55,Two year,Fiber optic,Electronic check,0,51.40000153,2665.899902,2,0,Call Center,4,49-72 months
+CUST0298,Male,0,0,0,48,One year,DSL,Mailed check,0,78.75,3612.889893,2,0,Referral,2,25-48 months
+CUST0299,Male,0,1,0,9,Month-to-month,DSL,Electronic check,0,76.45999908,694.8699951,3,1,Store,4,0-12 months
+CUST0300,Male,0,1,1,33,Two year,Fiber optic,Electronic check,0,112.2200012,3566.379883,0,0,Website,4,25-48 months
+CUST0301,Male,0,0,1,64,Month-to-month,DSL,Electronic check,1,94.91000366,6209.97998,0,0,Website,3,49-72 months
+CUST0302,Female,0,1,1,21,Month-to-month,DSL,Bank transfer,1,124.7399979,2699.389893,1,0,Website,5,13-24 months
+CUST0303,Male,0,0,0,70,Month-to-month,Fiber optic,Electronic check,0,82.37000275,5582.580078,1,0,Referral,3,49-72 months
+CUST0304,Female,0,0,0,4,Month-to-month,Fiber optic,Mailed check,1,78.26999664,292.4100037,1,1,Call Center,5,0-12 months
+CUST0305,Female,1,0,0,24,One year,DSL,Bank transfer,1,43.40000153,1039.839966,1,0,Website,3,13-24 months
+CUST0306,Male,0,0,0,25,Month-to-month,DSL,Mailed check,0,87.31999969,2040.810059,3,1,Call Center,1,25-48 months
+CUST0307,Male,0,0,0,45,One year,No,Electronic check,1,36.61000061,1651.469971,4,0,Call Center,4,25-48 months
+CUST0308,Female,0,0,0,12,Two year,DSL,Electronic check,0,86.33000183,1073.459961,1,0,Website,4,0-12 months
+CUST0309,Male,0,1,0,16,Month-to-month,DSL,Electronic check,1,46.93999863,765.5,1,1,Website,5,13-24 months
+CUST0310,Male,0,1,1,48,One year,DSL,Mailed check,0,79.73999786,3795.840088,1,0,Call Center,4,25-48 months
+CUST0311,Female,0,0,0,20,Month-to-month,DSL,Bank transfer,1,76.51000214,1639.359985,2,0,Store,2,13-24 months
+CUST0312,Female,1,0,0,64,Two year,DSL,Electronic check,0,75.05999756,4497.740234,0,0,Website,5,49-72 months
+CUST0313,Male,1,1,0,63,Two year,Fiber optic,Credit card,0,68.97000122,4609.290039,2,0,Call Center,4,49-72 months
+CUST0314,Female,1,0,0,22,Month-to-month,DSL,Bank transfer,1,98.16999817,2263.449951,1,1,Store,3,13-24 months
+CUST0315,Male,1,1,1,40,One year,DSL,Electronic check,1,117.1100006,4624.240234,1,0,Store,5,25-48 months
+CUST0316,Female,1,0,0,24,Month-to-month,DSL,Electronic check,1,47.56999969,1078.27002,1,1,Store,2,13-24 months
+CUST0317,Female,0,1,0,25,Month-to-month,No,Electronic check,1,49.84999847,1177.630005,2,0,Website,2,25-48 months
+CUST0318,Female,0,1,1,48,One year,DSL,Electronic check,1,18,922.3099976,1,0,Referral,4,25-48 months
+CUST0319,Female,0,1,1,21,Month-to-month,Fiber optic,Bank transfer,1,98.70999908,1984.589966,3,1,Website,4,13-24 months
+CUST0320,Female,0,1,1,10,One year,Fiber optic,Electronic check,0,42.86000061,454.2600098,3,0,Store,4,0-12 months
+CUST0321,Male,0,1,1,18,Month-to-month,Fiber optic,Credit card,1,72.44999695,1304.790039,1,1,Call Center,5,13-24 months
+CUST0322,Male,1,1,0,67,Month-to-month,Fiber optic,Bank transfer,1,55.11000061,3669.76001,2,0,Store,3,49-72 months
+CUST0323,Female,0,1,0,18,Two year,Fiber optic,Bank transfer,1,79.26000214,1453.959961,1,0,Store,5,13-24 months
+CUST0324,Female,0,1,0,26,Month-to-month,Fiber optic,Credit card,1,102.4499969,2542.25,2,1,Website,1,25-48 months
+CUST0325,Female,0,1,0,45,One year,Fiber optic,Bank transfer,1,43.13999939,1919.050049,1,0,Store,2,25-48 months
+CUST0326,Male,0,1,0,7,Month-to-month,Fiber optic,Credit card,0,76.08999634,570,2,1,Call Center,2,0-12 months
+CUST0327,Male,0,1,1,19,Two year,DSL,Credit card,0,60.70999908,1105.180054,1,0,Website,1,13-24 months
+CUST0328,Male,1,1,0,12,One year,DSL,Mailed check,1,106.7799988,1367.790039,0,1,Website,3,0-12 months
+CUST0329,Male,0,1,0,67,Month-to-month,Fiber optic,Electronic check,0,93.5,6759.859863,2,0,Store,5,49-72 months
+CUST0330,Female,0,1,1,68,Month-to-month,Fiber optic,Mailed check,1,58.09999847,3667.550049,4,0,Website,5,49-72 months
+CUST0331,Female,0,1,0,55,Month-to-month,Fiber optic,Electronic check,1,73.62999725,4069.97998,3,1,Website,4,49-72 months
+CUST0332,Male,0,0,0,18,Two year,Fiber optic,Bank transfer,0,118.2300034,2016.390015,1,0,Call Center,1,13-24 months
+CUST0333,Male,0,0,0,44,Month-to-month,Fiber optic,Mailed check,1,99.72000122,4473.129883,0,0,Website,5,25-48 months
+CUST0334,Female,0,0,0,48,Month-to-month,Fiber optic,Bank transfer,1,63.79999924,3302.27002,1,1,Referral,3,25-48 months
+CUST0335,Male,0,0,0,63,One year,Fiber optic,Credit card,0,78.12000275,5234.080078,4,0,Referral,4,49-72 months
+CUST0336,Female,0,0,1,11,Month-to-month,No,Electronic check,1,73.65000153,338.6900024,1,1,Referral,4,0-12 months
+CUST0337,Female,1,1,0,53,Month-to-month,DSL,Bank transfer,1,60.15999985,3042.23999,2,0,Referral,2,49-72 months
+CUST0338,Male,0,0,0,14,Month-to-month,DSL,Electronic check,1,34.38000107,484.5799866,0,1,Referral,4,13-24 months
+CUST0339,Male,1,0,0,41,Month-to-month,Fiber optic,Credit card,0,69.08999634,2712.51001,1,0,Call Center,5,25-48 months
+CUST0340,Female,0,0,0,64,One year,Fiber optic,Bank transfer,0,114.5599976,7800.399902,1,0,Website,3,49-72 months
+CUST0341,Female,0,0,1,4,Two year,No,Electronic check,0,25.61000061,97.37999725,4,0,Website,4,0-12 months
+CUST0342,Male,1,1,0,10,Two year,Fiber optic,Bank transfer,1,81.73000336,772.0499878,3,0,Referral,5,0-12 months
+CUST0343,Female,0,0,0,59,Two year,DSL,Electronic check,0,75.08999634,4084.51001,0,0,Call Center,3,49-72 months
+CUST0344,Female,0,0,0,1,Month-to-month,No,Bank transfer,1,82.80000305,78.58999634,2,0,Referral,3,0-12 months
+CUST0345,Female,0,1,0,50,Month-to-month,DSL,Bank transfer,1,72.19999695,3430.810059,1,0,Website,3,49-72 months
+CUST0346,Male,0,0,0,36,One year,Fiber optic,Mailed check,1,108.0699997,3627.51001,1,0,Store,5,25-48 months
+CUST0347,Female,0,1,0,25,Two year,DSL,Bank transfer,0,58.84000015,1557.550049,1,0,Store,3,25-48 months
+CUST0348,Female,1,0,0,62,One year,Fiber optic,Credit card,1,78.29000092,5071.439941,0,0,Referral,4,49-72 months
+CUST0349,Male,1,0,0,61,Month-to-month,Fiber optic,Credit card,0,84.27999878,4939.120117,1,0,Website,3,49-72 months
+CUST0350,Male,0,1,1,23,One year,Fiber optic,Bank transfer,1,66.97000122,1610.119995,1,1,Call Center,5,13-24 months
+CUST0351,Female,0,0,1,0,One year,No,Bank transfer,1,29.52000046,0,2,0,Call Center,5,0-12 months
+CUST0352,Male,0,1,1,9,Two year,DSL,Mailed check,0,91.54000092,860.1799927,0,0,Call Center,4,0-12 months
+CUST0353,Male,0,0,1,7,One year,Fiber optic,Credit card,0,66.38999939,451.5700073,6,1,Call Center,5,0-12 months
+CUST0354,Male,0,0,0,71,Month-to-month,Fiber optic,Credit card,1,84,6025.700195,3,0,Referral,4,49-72 months
+CUST0355,Female,1,0,0,43,Month-to-month,DSL,Electronic check,0,87.58999634,3695.030029,1,0,Referral,5,25-48 months
+CUST0356,Female,1,0,0,49,Month-to-month,No,Electronic check,1,18,837.9199829,2,0,Call Center,2,49-72 months
+CUST0357,Male,0,1,0,16,Month-to-month,Fiber optic,Electronic check,0,108.0999985,1753.300049,0,0,Referral,3,13-24 months
+CUST0358,Female,0,1,0,62,Two year,Fiber optic,Electronic check,1,85.59999847,5520.189941,1,0,Call Center,5,49-72 months
+CUST0359,Male,0,1,0,52,Month-to-month,DSL,Mailed check,1,68.37000275,3699.219971,1,1,Store,3,49-72 months
+CUST0360,Female,0,1,0,54,Month-to-month,No,Electronic check,1,18,949.6500244,2,0,Call Center,3,49-72 months
+CUST0361,Female,0,1,1,34,Month-to-month,No,Bank transfer,1,25.78000069,879.1400146,1,0,Website,4,25-48 months
+CUST0362,Female,0,1,1,50,One year,Fiber optic,Electronic check,1,92.18000031,4803.52002,1,0,Store,4,49-72 months
+CUST0363,Male,0,1,0,39,Month-to-month,Fiber optic,Electronic check,1,122.4000015,4433.339844,1,1,Call Center,3,25-48 months
+CUST0364,Female,0,1,0,28,Month-to-month,Fiber optic,Bank transfer,0,96.48999786,2516.659912,2,0,Website,3,25-48 months
+CUST0365,Male,1,0,0,43,Two year,Fiber optic,Mailed check,1,108.7799988,4584.899902,1,0,Store,3,25-48 months
+CUST0366,Female,0,1,1,23,Month-to-month,No,Mailed check,1,18,395.6799927,3,0,Website,2,13-24 months
+CUST0367,Male,1,0,0,69,Month-to-month,Fiber optic,Credit card,1,81.20999908,5491.100098,1,0,Call Center,3,49-72 months
+CUST0368,Male,0,1,0,52,Month-to-month,DSL,Credit card,0,98.86000061,4806.580078,3,0,Call Center,4,49-72 months
+CUST0369,Male,0,1,1,53,Month-to-month,No,Bank transfer,1,18,968.039978,1,0,Website,4,49-72 months
+CUST0370,Female,0,0,0,52,One year,No,Electronic check,1,55.22999954,2950.879883,3,0,Store,3,49-72 months
+CUST0371,Male,0,1,0,32,Two year,DSL,Electronic check,0,88.12999725,2951.850098,1,0,Referral,3,25-48 months
+CUST0372,Female,0,1,1,69,Month-to-month,No,Credit card,1,40.04000092,2829.300049,0,0,Call Center,4,49-72 months
+CUST0373,Male,0,0,0,15,Two year,Fiber optic,Bank transfer,0,76.76999664,1132.459961,0,0,Referral,2,13-24 months
+CUST0374,Male,1,1,1,41,One year,Fiber optic,Credit card,1,62.29999924,2732.050049,0,0,Store,3,25-48 months
+CUST0375,Female,0,1,0,5,Month-to-month,Fiber optic,Bank transfer,0,123.0599976,637.5800171,0,0,Website,3,0-12 months
+CUST0376,Male,0,0,0,21,Month-to-month,No,Electronic check,1,47.90000153,1010.359985,1,0,Website,4,13-24 months
+CUST0377,Female,0,1,1,41,Month-to-month,No,Mailed check,0,41.49000168,1621.300049,1,0,Call Center,2,25-48 months
+CUST0378,Female,0,0,1,35,Two year,Fiber optic,Credit card,0,74.91999817,2684.699951,4,0,Referral,3,25-48 months
+CUST0379,Male,0,1,0,68,Month-to-month,Fiber optic,Credit card,1,84.83000183,5853.089844,2,0,Call Center,4,49-72 months
+CUST0380,Male,0,0,1,44,Month-to-month,Fiber optic,Electronic check,1,87.62000275,3968.370117,1,0,Call Center,5,25-48 months
+CUST0381,Male,1,0,0,30,One year,Fiber optic,Bank transfer,1,92.80000305,2909.219971,0,0,Call Center,4,25-48 months
+CUST0382,Female,0,0,0,31,Two year,DSL,Electronic check,1,88.16000366,2914.449951,1,0,Website,5,25-48 months
+CUST0383,Female,0,0,0,44,One year,Fiber optic,Credit card,0,66.79000092,3149.909912,1,0,Website,4,25-48 months
+CUST0384,Male,0,1,0,57,One year,DSL,Electronic check,1,39.72999954,2311.780029,0,0,Store,3,49-72 months
+CUST0385,Male,0,0,0,20,Month-to-month,DSL,Bank transfer,1,73.84999847,1587.109985,1,1,Call Center,3,13-24 months
+CUST0386,Male,1,1,0,42,Two year,Fiber optic,Electronic check,0,45.56000137,2039.47998,1,0,Call Center,1,25-48 months
+CUST0387,Male,0,0,0,41,Month-to-month,Fiber optic,Bank transfer,0,76.87999725,2901.22998,0,0,Store,3,25-48 months
+CUST0388,Female,0,0,0,0,Month-to-month,No,Bank transfer,0,22.79999924,0,0,0,Website,2,0-12 months
+CUST0389,Female,0,1,0,66,Two year,DSL,Electronic check,1,82.81999969,5184.919922,1,0,Store,3,49-72 months
+CUST0390,Male,0,0,0,41,Month-to-month,Fiber optic,Credit card,1,125,4957.060059,1,0,Referral,4,25-48 months
+CUST0391,Female,0,1,1,17,Month-to-month,Fiber optic,Credit card,1,41.22000122,678.039978,2,0,Call Center,4,13-24 months
+CUST0392,Male,0,0,0,46,One year,No,Credit card,1,84.02999878,3854.949951,2,0,Store,3,25-48 months
+CUST0393,Male,0,0,0,49,Month-to-month,DSL,Electronic check,1,66.87000275,3020.199951,2,0,Website,4,49-72 months
+CUST0394,Female,0,1,1,66,Month-to-month,DSL,Credit card,1,79.65000153,5034.680176,0,0,Call Center,3,49-72 months
+CUST0395,Female,1,0,0,2,One year,DSL,Bank transfer,1,40.86999893,75.58000183,3,1,Call Center,4,0-12 months
+CUST0396,Female,0,0,0,30,One year,No,Bank transfer,1,55.93000031,1718.319946,1,0,Store,4,25-48 months
+CUST0397,Male,0,1,1,13,One year,Fiber optic,Bank transfer,1,84.91000366,1172.579956,1,0,Call Center,3,13-24 months
+CUST0398,Male,0,0,0,41,Month-to-month,DSL,Bank transfer,1,70.65000153,3127.360107,2,0,Website,3,25-48 months
+CUST0399,Male,1,1,0,36,Month-to-month,Fiber optic,Electronic check,1,41.38000107,1477.420044,0,1,Referral,5,25-48 months
+CUST0400,Male,0,0,0,34,Two year,DSL,Mailed check,1,73.62000275,2407.02002,1,0,Website,4,25-48 months
+CUST0401,Female,0,1,1,71,Month-to-month,No,Electronic check,0,52.61000061,3946.340088,1,0,Referral,4,49-72 months
+CUST0402,Female,0,0,0,38,Month-to-month,No,Electronic check,0,28.79999924,1026.660034,1,0,Referral,1,25-48 months
+CUST0403,Male,0,0,0,30,Month-to-month,DSL,Electronic check,1,97.83000183,3157.600098,1,0,Referral,2,25-48 months
+CUST0404,Female,0,1,0,4,Month-to-month,DSL,Electronic check,1,96.91999817,401.0100098,1,0,Referral,3,0-12 months
+CUST0405,Male,0,1,0,21,Month-to-month,No,Credit card,1,19.89999962,418.1600037,2,0,Store,5,13-24 months
+CUST0406,Female,0,0,0,65,One year,No,Bank transfer,1,69.08999634,4201.029785,2,0,Website,2,49-72 months
+CUST0407,Male,1,0,0,32,Two year,DSL,Electronic check,1,73,2155.919922,4,0,Referral,3,25-48 months
+CUST0408,Male,0,1,1,66,Month-to-month,Fiber optic,Credit card,0,85.08999634,5655.950195,1,0,Call Center,5,49-72 months
+CUST0409,Female,0,1,0,38,One year,Fiber optic,Credit card,1,86.18000031,3229.699951,1,0,Store,4,25-48 months
+CUST0410,Male,0,1,1,40,Month-to-month,No,Credit card,1,35.52000046,1498.699951,2,1,Website,3,25-48 months
+CUST0411,Male,0,0,0,31,Month-to-month,DSL,Credit card,0,18,570.710022,2,0,Referral,4,25-48 months
+CUST0412,Male,0,1,1,40,One year,DSL,Credit card,1,67.91999817,2687.199951,2,0,Call Center,4,25-48 months
+CUST0413,Male,0,0,0,4,Month-to-month,DSL,Bank transfer,1,41.99000168,160.6000061,2,1,Website,5,0-12 months
+CUST0414,Male,1,0,0,4,Two year,Fiber optic,Credit card,1,119.7799988,477.6199951,2,1,Call Center,2,0-12 months
+CUST0415,Male,0,0,0,34,Month-to-month,Fiber optic,Credit card,0,118.8899994,3824.300049,2,0,Referral,4,25-48 months
+CUST0416,Female,0,1,1,43,Month-to-month,DSL,Electronic check,1,90.73999786,4006.080078,3,1,Store,3,25-48 months
+CUST0417,Female,0,1,0,40,Month-to-month,Fiber optic,Credit card,0,78.75,3203.290039,3,0,Referral,5,25-48 months
+CUST0418,Male,1,0,0,31,Month-to-month,DSL,Credit card,0,49.81999969,1621.040039,1,0,Store,5,25-48 months
+CUST0419,Male,0,0,0,21,Two year,DSL,Credit card,1,57.52999878,1198.369995,3,0,Call Center,5,13-24 months
+CUST0420,Female,0,1,0,51,One year,DSL,Credit card,0,114.7399979,5644.490234,0,0,Website,5,49-72 months
+CUST0421,Female,1,1,0,44,Month-to-month,Fiber optic,Mailed check,1,68.76999664,3188.73999,2,1,Referral,4,25-48 months
+CUST0422,Female,0,1,1,3,Month-to-month,DSL,Mailed check,1,20.18000031,62.38999939,1,0,Store,2,0-12 months
+CUST0423,Female,1,1,0,33,One year,Fiber optic,Electronic check,1,106.6600037,3636.189941,2,0,Referral,1,25-48 months
+CUST0424,Female,0,1,1,51,One year,Fiber optic,Credit card,0,117.0100021,5994.330078,2,0,Referral,3,49-72 months
+CUST0425,Male,0,0,1,57,Month-to-month,Fiber optic,Credit card,1,120.5,7281.689941,1,0,Call Center,4,49-72 months
+CUST0426,Male,0,1,0,20,Month-to-month,Fiber optic,Credit card,1,106.8399963,2043.72998,0,0,Website,3,13-24 months
+CUST0427,Female,1,0,0,67,Month-to-month,No,Bank transfer,0,60.43000031,3985.129883,1,0,Website,4,49-72 months
+CUST0428,Female,0,1,0,47,Month-to-month,No,Credit card,1,35.15999985,1730.839966,2,0,Store,4,25-48 months
+CUST0429,Male,0,1,0,31,Month-to-month,Fiber optic,Electronic check,0,38.31999969,1118.160034,5,1,Website,5,25-48 months
+CUST0430,Female,0,0,0,45,Month-to-month,DSL,Credit card,0,72.61000061,3428.530029,1,0,Website,3,25-48 months
+CUST0431,Male,0,1,0,63,Month-to-month,DSL,Electronic check,1,85.66999817,5269.919922,2,0,Call Center,4,49-72 months
+CUST0432,Female,0,0,0,16,Month-to-month,DSL,Bank transfer,0,69.01999664,1038.150024,3,1,Referral,4,13-24 months
+CUST0433,Female,0,1,0,10,Month-to-month,No,Electronic check,0,30.02000046,279.9899902,2,0,Website,5,0-12 months
+CUST0434,Male,1,0,0,32,Two year,DSL,Bank transfer,1,50.79000092,1714.47998,0,0,Store,4,25-48 months
+CUST0435,Female,0,0,0,6,One year,Fiber optic,Mailed check,0,61.95999908,388.3299866,2,0,Referral,3,0-12 months
+CUST0436,Male,0,0,1,61,Month-to-month,Fiber optic,Electronic check,0,124.4400024,7333.410156,0,1,Referral,1,49-72 months
+CUST0437,Female,0,1,1,70,Month-to-month,DSL,Bank transfer,0,113.2399979,7440.240234,1,0,Referral,5,49-72 months
+CUST0438,Female,0,1,1,44,Month-to-month,No,Credit card,0,33.93999863,1432.959961,3,0,Website,4,25-48 months
+CUST0439,Male,0,1,1,71,Two year,DSL,Electronic check,1,78.19000244,5296.549805,1,0,Call Center,5,49-72 months
+CUST0440,Male,0,0,0,5,One year,Fiber optic,Bank transfer,1,62.41999817,323.7399902,4,1,Website,4,0-12 months
+CUST0441,Female,0,1,1,46,Month-to-month,Fiber optic,Electronic check,1,98.13999939,4308.990234,1,0,Referral,4,25-48 months
+CUST0442,Male,0,1,1,32,Two year,No,Electronic check,1,72.70999908,2221.030029,2,0,Referral,4,25-48 months
+CUST0443,Male,0,1,1,20,Two year,Fiber optic,Electronic check,0,50.36000061,931.8200073,1,0,Store,5,13-24 months
+CUST0444,Male,0,1,1,22,Two year,DSL,Bank transfer,0,82.20999908,1836.650024,0,0,Store,5,13-24 months
+CUST0445,Female,0,1,0,39,Month-to-month,DSL,Credit card,1,83.86000061,3369.429932,2,0,Referral,3,25-48 months
+CUST0446,Female,0,1,1,46,Month-to-month,Fiber optic,Bank transfer,1,95.61000061,4506.069824,1,0,Store,1,25-48 months
+CUST0447,Male,0,1,0,11,One year,Fiber optic,Credit card,0,120.1399994,1336.050049,0,1,Website,1,0-12 months
+CUST0448,Female,0,0,0,44,Month-to-month,Fiber optic,Bank transfer,1,125,5910.149902,0,0,Website,3,25-48 months
+CUST0449,Female,1,1,1,67,One year,Fiber optic,Credit card,0,78.86000061,5260.569824,1,0,Call Center,5,49-72 months
+CUST0450,Male,0,1,0,0,One year,DSL,Credit card,0,86.80999756,0,1,0,Store,5,0-12 months
+CUST0451,Female,0,0,0,64,Month-to-month,DSL,Mailed check,1,73.84999847,4836.819824,1,0,Store,3,49-72 months
+CUST0452,Female,0,0,0,44,Month-to-month,Fiber optic,Electronic check,1,70.08999634,2878.77002,0,0,Call Center,3,25-48 months
+CUST0453,Male,0,1,1,24,Month-to-month,DSL,Electronic check,0,77.95999908,1963.869995,2,0,Call Center,4,13-24 months
+CUST0454,Male,0,0,0,53,Month-to-month,Fiber optic,Bank transfer,1,98.76999664,5305.490234,1,1,Store,5,49-72 months
+CUST0455,Female,0,0,0,45,One year,Fiber optic,Bank transfer,0,88.76999664,4092.780029,2,0,Call Center,4,25-48 months
+CUST0456,Female,0,0,0,56,One year,DSL,Electronic check,1,52.61000061,2795.419922,1,0,Store,2,49-72 months
+CUST0457,Male,1,0,0,5,Month-to-month,DSL,Credit card,1,61.79999924,305.9100037,2,1,Website,3,0-12 months
+CUST0458,Female,0,0,1,4,One year,DSL,Credit card,1,61.97000122,262.9700012,0,0,Store,4,0-12 months
+CUST0459,Female,0,1,1,46,Month-to-month,Fiber optic,Electronic check,0,65.47000122,2874.5,0,0,Call Center,4,25-48 months
+CUST0460,Male,0,1,0,22,One year,DSL,Electronic check,0,78.90000153,1596.969971,4,0,Call Center,5,13-24 months
+CUST0461,Female,1,0,0,17,Month-to-month,Fiber optic,Electronic check,0,93.19999695,1522.930054,5,0,Store,5,13-24 months
+CUST0462,Male,0,0,0,30,One year,No,Mailed check,1,55.54999924,1663.180054,2,0,Call Center,2,25-48 months
+CUST0463,Female,0,1,1,52,One year,DSL,Credit card,0,53.13000107,2904.780029,1,0,Website,3,49-72 months
+CUST0464,Male,0,1,1,13,Month-to-month,No,Bank transfer,1,21.29999924,283.25,1,0,Website,3,13-24 months
+CUST0465,Male,0,0,0,71,Month-to-month,Fiber optic,Electronic check,1,118.1999969,8954.900391,2,1,Referral,3,49-72 months
+CUST0466,Female,1,1,0,30,Two year,Fiber optic,Bank transfer,0,80.37999725,2394.26001,0,0,Website,3,25-48 months
+CUST0467,Male,0,0,0,10,Month-to-month,DSL,Electronic check,1,72.66000366,713.9099731,1,1,Call Center,1,0-12 months
+CUST0468,Female,0,0,0,5,One year,Fiber optic,Mailed check,0,80.15000153,383.5299988,1,0,Website,1,0-12 months
+CUST0469,Male,0,0,0,62,Two year,DSL,Electronic check,1,96.93000031,5738.560059,2,0,Store,5,49-72 months
+CUST0470,Female,0,0,0,8,Two year,DSL,Bank transfer,1,97.77999878,811.789978,3,0,Call Center,2,0-12 months
+CUST0471,Female,1,0,0,30,Month-to-month,No,Bank transfer,1,58.49000168,1636.880005,1,0,Website,5,25-48 months
+CUST0472,Female,0,0,0,48,One year,Fiber optic,Credit card,0,84.58000183,3892.709961,3,0,Website,3,25-48 months
+CUST0473,Male,0,0,1,37,Two year,No,Electronic check,1,18,707.1199951,0,0,Store,3,25-48 months
+CUST0474,Male,1,0,0,19,One year,Fiber optic,Credit card,0,125,2404.22998,2,0,Call Center,2,13-24 months
+CUST0475,Female,1,0,0,7,Month-to-month,Fiber optic,Electronic check,1,102.8399963,667.6599731,2,1,Website,1,0-12 months
+CUST0476,Female,0,1,0,51,Month-to-month,DSL,Electronic check,0,61.95000076,3262.699951,0,0,Website,3,49-72 months
+CUST0477,Female,0,0,1,35,One year,Fiber optic,Credit card,1,115.3199997,4040.52002,0,0,Call Center,5,25-48 months
+CUST0478,Male,0,1,0,3,Month-to-month,No,Electronic check,1,22.21999931,70.44000244,3,1,Store,5,0-12 months
+CUST0479,Female,0,0,1,13,Month-to-month,No,Electronic check,0,65.04000092,870.2000122,2,0,Store,1,13-24 months
+CUST0480,Male,0,0,0,41,Month-to-month,No,Bank transfer,0,66.51999664,2511.070068,2,0,Referral,1,25-48 months
+CUST0481,Male,0,1,0,12,One year,No,Bank transfer,1,18,205.8300018,1,1,Referral,2,0-12 months
+CUST0482,Female,1,1,0,28,Month-to-month,DSL,Credit card,1,84.80000305,2282.449951,1,0,Referral,4,25-48 months
+CUST0483,Male,1,1,0,9,Two year,Fiber optic,Bank transfer,1,101.2099991,940.3599854,1,0,Website,3,0-12 months
+CUST0484,Female,1,0,0,58,One year,DSL,Electronic check,0,125,7260.799805,1,0,Referral,3,49-72 months
+CUST0485,Male,1,1,0,46,Two year,Fiber optic,Bank transfer,0,67.66999817,3236.060059,0,0,Call Center,5,25-48 months
+CUST0486,Male,0,1,0,57,Two year,DSL,Electronic check,0,103.5199966,5912.790039,1,0,Store,5,49-72 months
+CUST0487,Male,0,0,0,3,Month-to-month,DSL,Electronic check,0,72.37999725,211.1399994,0,0,Call Center,4,0-12 months
+CUST0488,Female,0,0,0,27,One year,DSL,Bank transfer,0,44.68999863,1130.109985,0,0,Referral,2,25-48 months
+CUST0489,Female,0,1,1,19,Month-to-month,Fiber optic,Credit card,1,81.36000061,1472.290039,0,0,Call Center,3,13-24 months
+CUST0490,Female,0,1,0,45,Two year,Fiber optic,Electronic check,1,84.05000305,3722.209961,2,0,Referral,3,25-48 months
+CUST0491,Female,0,0,0,59,Month-to-month,Fiber optic,Credit card,0,60.70000076,3610.780029,1,0,Store,4,49-72 months
+CUST0492,Female,0,0,0,16,One year,Fiber optic,Bank transfer,1,90.87000275,1555.959961,1,0,Store,4,13-24 months
+CUST0493,Female,0,0,0,56,Two year,Fiber optic,Credit card,1,105.0699997,5638.890137,1,0,Call Center,2,49-72 months
+CUST0494,Female,0,1,0,42,Month-to-month,Fiber optic,Electronic check,0,89.23999786,3847.679932,1,0,Call Center,5,25-48 months
+CUST0495,Male,0,1,1,60,Two year,Fiber optic,Mailed check,0,72.08000183,4084.370117,3,0,Website,3,49-72 months
+CUST0496,Male,0,1,0,5,Month-to-month,DSL,Electronic check,0,68.73000336,355.3999939,2,1,Call Center,4,0-12 months
+CUST0497,Male,0,0,0,72,Month-to-month,Fiber optic,Electronic check,1,83.90000153,5568.5,2,0,Store,4,49-72 months
+CUST0498,Male,0,1,0,31,Month-to-month,DSL,Electronic check,0,76.77999878,2439.560059,1,1,Store,3,25-48 months
+CUST0499,Female,1,1,1,20,Month-to-month,Fiber optic,Electronic check,1,108.4199982,2051.560059,1,1,Website,1,13-24 months
+CUST0500,Male,0,0,0,13,One year,DSL,Electronic check,1,77.98000336,961.8900146,0,1,Referral,4,13-24 months
+CUST0501,Male,0,0,0,71,Two year,Fiber optic,Electronic check,0,53.13999939,3808.5,2,0,Call Center,1,49-72 months
+CUST0502,Female,0,0,0,64,Month-to-month,DSL,Credit card,0,59.63000107,3740.23999,6,0,Call Center,3,49-72 months
+CUST0503,Female,0,1,1,9,One year,DSL,Credit card,0,75.65000153,677.7199707,1,0,Website,4,0-12 months
+CUST0504,Female,0,0,0,32,Two year,DSL,Mailed check,0,96.73000336,3000.709961,0,0,Referral,4,25-48 months
+CUST0505,Male,0,1,0,53,One year,Fiber optic,Credit card,0,112.5500031,6397.950195,1,0,Call Center,4,49-72 months
+CUST0506,Male,0,1,0,43,Month-to-month,DSL,Electronic check,1,111.0400009,4614.790039,2,0,Call Center,4,25-48 months
+CUST0507,Female,0,0,1,13,Two year,Fiber optic,Mailed check,1,86.87000275,1136.910034,1,0,Referral,4,13-24 months
+CUST0508,Male,0,1,0,26,Month-to-month,Fiber optic,Credit card,0,100.7900009,2769.120117,1,0,Call Center,4,25-48 months
+CUST0509,Male,1,0,0,26,One year,Fiber optic,Electronic check,0,52,1387.52002,0,0,Call Center,3,25-48 months
+CUST0510,Male,0,0,0,21,One year,DSL,Electronic check,1,81.45999908,1662.150024,2,0,Website,1,13-24 months
+CUST0511,Female,0,0,0,70,One year,Fiber optic,Mailed check,1,60.34000015,4259.240234,1,0,Website,3,49-72 months
+CUST0512,Female,0,1,0,14,Month-to-month,DSL,Bank transfer,1,70.62000275,922.710022,1,0,Website,1,13-24 months
+CUST0513,Female,0,1,0,51,Month-to-month,Fiber optic,Bank transfer,1,125,6421.600098,2,0,Website,3,49-72 months
+CUST0514,Female,1,1,0,66,One year,Fiber optic,Mailed check,0,90.68000031,5919.180176,0,0,Store,3,49-72 months
+CUST0515,Female,1,1,0,58,Month-to-month,Fiber optic,Mailed check,1,65,3925.590088,1,0,Referral,2,49-72 months
+CUST0516,Male,0,1,0,58,Month-to-month,Fiber optic,Electronic check,1,92.97000122,5692.419922,0,0,Store,4,49-72 months
+CUST0517,Female,0,1,0,11,One year,DSL,Bank transfer,0,60.61999893,634.7700195,1,0,Website,4,0-12 months
+CUST0518,Male,0,0,0,9,One year,DSL,Electronic check,1,50.86000061,427.0899963,0,1,Store,4,0-12 months
+CUST0519,Male,0,0,0,57,Month-to-month,DSL,Credit card,1,118.2699966,6623.339844,4,1,Store,5,49-72 months
+CUST0520,Female,1,0,0,54,Month-to-month,Fiber optic,Credit card,1,107.4700012,5835.089844,1,0,Call Center,3,49-72 months
+CUST0521,Male,0,1,0,54,Two year,Fiber optic,Mailed check,1,91.59999847,4848.899902,1,0,Referral,3,49-72 months
+CUST0522,Male,0,1,0,30,Month-to-month,No,Credit card,1,25.37999916,777.0599976,0,0,Store,2,25-48 months
+CUST0523,Male,0,1,1,38,Month-to-month,Fiber optic,Electronic check,1,77.16000366,2934.72998,0,1,Referral,4,25-48 months
+CUST0524,Female,0,1,1,1,Month-to-month,Fiber optic,Mailed check,1,117.9300003,126.1699982,1,1,Referral,3,0-12 months
+CUST0525,Male,0,1,0,21,Month-to-month,DSL,Mailed check,1,78.73999786,1629.569946,3,1,Store,5,13-24 months
+CUST0526,Male,0,0,0,38,Two year,Fiber optic,Bank transfer,1,18,638.3099976,0,0,Store,4,25-48 months
+CUST0527,Female,0,1,1,9,Month-to-month,Fiber optic,Credit card,1,125,1089.349976,2,0,Call Center,4,0-12 months
+CUST0528,Male,0,1,1,9,Month-to-month,Fiber optic,Credit card,0,88.02999878,805.6900024,1,0,Website,4,0-12 months
+CUST0529,Female,0,0,0,3,Month-to-month,DSL,Mailed check,1,79.55000305,229.3300018,1,0,Website,3,0-12 months
+CUST0530,Female,1,0,0,15,Month-to-month,Fiber optic,Mailed check,1,107.9100037,1558.819946,0,1,Store,4,13-24 months
+CUST0531,Female,1,0,0,72,Month-to-month,DSL,Bank transfer,0,82.23999786,5769.290039,1,0,Store,4,49-72 months
+CUST0532,Male,0,1,1,50,Two year,Fiber optic,Electronic check,1,100.4300003,5219.259766,1,0,Call Center,4,49-72 months
+CUST0533,Male,0,0,0,69,One year,Fiber optic,Electronic check,1,74.68000031,5515.799805,2,0,Store,4,49-72 months
+CUST0534,Male,0,1,1,18,Month-to-month,Fiber optic,Credit card,0,56.93999863,1000.380005,1,1,Website,3,13-24 months
+CUST0535,Female,1,1,0,43,Month-to-month,DSL,Credit card,1,78.16999817,3197.540039,1,0,Referral,3,25-48 months
+CUST0536,Male,0,0,0,65,Month-to-month,Fiber optic,Credit card,1,115.5,7412.169922,1,0,Call Center,4,49-72 months
+CUST0537,Male,0,0,0,25,Month-to-month,DSL,Electronic check,0,57.75,1409.52002,1,0,Call Center,3,25-48 months
+CUST0538,Male,0,1,0,47,One year,Fiber optic,Electronic check,0,67.98000336,3445.570068,0,0,Call Center,3,25-48 months
+CUST0539,Female,0,0,0,50,Month-to-month,Fiber optic,Mailed check,1,110.8600006,5510.959961,1,0,Referral,2,49-72 months
+CUST0540,Male,0,1,1,60,One year,Fiber optic,Credit card,1,73.94000244,4563.660156,2,0,Website,4,49-72 months
+CUST0541,Female,0,1,0,70,Two year,DSL,Electronic check,1,62.97000122,4699.72998,3,0,Website,1,49-72 months
+CUST0542,Male,0,1,0,44,Month-to-month,Fiber optic,Electronic check,0,75.79000092,3403.620117,2,0,Call Center,5,25-48 months
+CUST0543,Male,0,0,0,42,Two year,DSL,Electronic check,1,70.56999969,2845.090088,0,0,Referral,2,25-48 months
+CUST0544,Male,0,1,1,63,Month-to-month,No,Credit card,1,18,1153.48999,0,0,Call Center,3,49-72 months
+CUST0545,Female,0,0,1,49,Month-to-month,DSL,Credit card,1,60.13000107,2900.110107,1,0,Website,3,49-72 months
+CUST0546,Male,0,1,0,26,Two year,DSL,Bank transfer,0,77.06999969,1978.920044,2,0,Referral,3,25-48 months
+CUST0547,Male,0,0,0,46,Month-to-month,DSL,Electronic check,1,76.91000366,3809.189941,0,0,Call Center,3,25-48 months
+CUST0548,Female,0,0,0,40,Month-to-month,DSL,Bank transfer,1,97.48000336,3761.070068,2,0,Website,4,25-48 months
+CUST0549,Female,0,1,1,16,One year,Fiber optic,Mailed check,1,124.4700012,1981.619995,0,0,Website,2,13-24 months
+CUST0550,Female,1,1,0,37,Month-to-month,DSL,Electronic check,0,105.2699966,3683.02002,0,0,Referral,3,25-48 months
+CUST0551,Female,0,1,0,45,Two year,DSL,Electronic check,1,92.12000275,3932.189941,2,0,Website,2,25-48 months
+CUST0552,Male,1,0,0,65,Month-to-month,Fiber optic,Bank transfer,0,80.73000336,5334.330078,0,0,Store,3,49-72 months
+CUST0553,Female,0,1,1,42,Two year,No,Electronic check,1,20.29000092,886.4099731,0,0,Website,5,25-48 months
+CUST0554,Male,0,0,0,12,Month-to-month,DSL,Credit card,1,72.38999939,887.6500244,2,1,Website,3,0-12 months
+CUST0555,Female,0,1,1,72,Month-to-month,Fiber optic,Bank transfer,1,96.87999725,6784.830078,1,0,Store,4,49-72 months
+CUST0556,Female,0,0,0,42,Month-to-month,No,Mailed check,1,52.08000183,2033.23999,2,0,Referral,3,25-48 months
+CUST0557,Female,0,0,0,20,Two year,Fiber optic,Bank transfer,1,97.70999908,1944.900024,1,0,Store,3,13-24 months
+CUST0558,Female,0,0,0,55,Month-to-month,Fiber optic,Bank transfer,0,81.33000183,4476.209961,2,0,Call Center,5,49-72 months
+CUST0559,Female,0,0,1,28,Two year,Fiber optic,Electronic check,1,101.3099976,2959.52002,1,0,Call Center,1,25-48 months
+CUST0560,Female,0,1,0,27,Month-to-month,DSL,Bank transfer,0,99.73999786,2753.429932,0,0,Store,5,25-48 months
+CUST0561,Female,0,0,0,61,Month-to-month,Fiber optic,Electronic check,1,103.3600006,6679.47998,4,0,Call Center,4,49-72 months
+CUST0562,Male,0,1,0,63,Month-to-month,No,Mailed check,1,33.29999924,2192.889893,2,1,Store,3,49-72 months
+CUST0563,Male,0,1,0,38,Month-to-month,Fiber optic,Bank transfer,1,65.66000366,2441.540039,2,0,Website,5,25-48 months
+CUST0564,Male,0,0,0,27,Two year,Fiber optic,Bank transfer,1,65.12999725,1795.709961,3,0,Call Center,3,25-48 months
+CUST0565,Female,0,0,0,63,Month-to-month,DSL,Mailed check,1,57.00999832,3733.73999,2,0,Store,5,49-72 months
+CUST0566,Male,1,0,0,12,One year,Fiber optic,Electronic check,0,89.66000366,1154.569946,5,1,Website,5,0-12 months
+CUST0567,Male,0,1,0,54,One year,DSL,Bank transfer,0,83.44000244,4449.779785,2,0,Store,3,49-72 months
+CUST0568,Male,0,1,0,42,Month-to-month,Fiber optic,Electronic check,0,52.88000107,2273.649902,0,0,Website,4,25-48 months
+CUST0569,Female,0,1,0,62,One year,No,Credit card,0,22.90999985,1396.030029,0,0,Store,5,49-72 months
+CUST0570,Female,0,0,0,30,Two year,DSL,Bank transfer,1,77.34999847,2408.800049,1,0,Store,2,25-48 months
+CUST0571,Female,0,1,0,60,One year,Fiber optic,Credit card,1,64.20999908,4106.560059,1,0,Website,4,49-72 months
+CUST0572,Male,0,1,1,1,Month-to-month,Fiber optic,Mailed check,1,93.55000305,99.81999969,5,1,Referral,2,0-12 months
+CUST0573,Male,0,1,1,55,One year,Fiber optic,Credit card,0,77.23999786,4015.120117,0,0,Website,3,49-72 months
+CUST0574,Male,0,1,0,5,One year,No,Electronic check,1,18.07999992,86.12000275,0,0,Website,4,0-12 months
+CUST0575,Male,0,1,1,46,Month-to-month,DSL,Electronic check,1,73.16999817,3503.110107,0,0,Website,4,25-48 months
+CUST0576,Male,0,1,1,14,One year,Fiber optic,Electronic check,0,92.62999725,1324,1,0,Call Center,4,13-24 months
+CUST0577,Female,0,0,0,70,Month-to-month,Fiber optic,Electronic check,1,65.33000183,4869.52002,2,0,Referral,4,49-72 months
+CUST0578,Female,0,0,1,56,One year,No,Credit card,0,28.65999985,1557.150024,6,0,Website,3,49-72 months
+CUST0579,Female,0,1,0,7,Two year,Fiber optic,Bank transfer,1,94.29000092,696.7800293,0,0,Store,3,0-12 months
+CUST0580,Male,0,0,0,65,Two year,DSL,Bank transfer,0,55.22999954,3695.51001,1,0,Store,3,49-72 months
+CUST0581,Male,0,0,0,18,Two year,DSL,Bank transfer,0,35.52999878,608.3800049,0,0,Website,3,13-24 months
+CUST0582,Female,0,1,0,39,One year,Fiber optic,Bank transfer,1,50.20000076,1840.800049,0,0,Store,3,25-48 months
+CUST0583,Male,0,1,1,6,One year,DSL,Bank transfer,1,62.79999924,389.019989,0,0,Website,4,0-12 months
+CUST0584,Male,0,1,0,7,Month-to-month,Fiber optic,Credit card,1,54.99000168,363.8999939,0,0,Store,3,0-12 months
+CUST0585,Male,0,1,0,17,Month-to-month,Fiber optic,Bank transfer,1,76.34999847,1359.069946,0,1,Call Center,1,13-24 months
+CUST0586,Female,0,0,0,39,Month-to-month,No,Credit card,1,70.62999725,2779.72998,2,0,Referral,4,25-48 months
+CUST0587,Female,0,0,0,39,Month-to-month,DSL,Electronic check,1,41.66999817,1619.109985,1,0,Store,1,25-48 months
+CUST0588,Male,1,1,0,62,Two year,DSL,Credit card,1,65.77999878,3931.879883,1,0,Website,5,49-72 months
+CUST0589,Female,0,0,0,12,Two year,DSL,Electronic check,1,118.9100037,1537.390015,1,0,Referral,3,0-12 months
+CUST0590,Female,0,1,1,54,Month-to-month,Fiber optic,Mailed check,1,92.98000336,5199.399902,4,0,Call Center,1,49-72 months
+CUST0591,Female,0,0,0,0,Month-to-month,DSL,Credit card,0,63.90999985,0,1,0,Website,5,0-12 months
+CUST0592,Female,0,0,1,21,One year,DSL,Electronic check,1,68.55000305,1501.439941,0,0,Call Center,4,13-24 months
+CUST0593,Male,1,1,0,12,Month-to-month,Fiber optic,Electronic check,1,93.44999695,1136.469971,3,0,Website,5,0-12 months
+CUST0594,Female,1,1,1,9,Two year,Fiber optic,Mailed check,1,121.3099976,1168.599976,0,1,Referral,3,0-12 months
+CUST0595,Male,1,0,0,42,Two year,DSL,Mailed check,1,60.31999969,2567.419922,1,0,Website,3,25-48 months
+CUST0596,Female,0,0,0,65,Month-to-month,DSL,Credit card,0,55.33000183,3607.97998,1,0,Website,4,49-72 months
+CUST0597,Female,0,1,0,48,Month-to-month,Fiber optic,Credit card,1,53.66999817,2482.889893,0,0,Referral,3,25-48 months
+CUST0598,Female,0,1,0,62,Month-to-month,No,Bank transfer,0,36.27000046,2170.209961,0,0,Store,4,49-72 months
+CUST0599,Female,0,1,0,43,Month-to-month,Fiber optic,Credit card,0,53.06999969,2368.5,1,1,Store,3,25-48 months
+CUST0600,Female,0,0,0,3,Month-to-month,Fiber optic,Bank transfer,0,73.80000305,215.5500031,2,1,Referral,3,0-12 months
+CUST0601,Female,0,0,0,25,Month-to-month,Fiber optic,Credit card,0,64.01000214,1658.810059,1,0,Referral,2,25-48 months
+CUST0602,Female,0,0,0,60,Month-to-month,DSL,Electronic check,0,95.62999725,6153.410156,0,0,Website,4,49-72 months
+CUST0603,Female,0,0,1,3,Month-to-month,Fiber optic,Bank transfer,1,72.81999969,216.3399963,1,0,Store,3,0-12 months
+CUST0604,Male,0,0,0,7,Month-to-month,DSL,Electronic check,1,80.73000336,528.7000122,4,0,Website,5,0-12 months
+CUST0605,Female,0,0,0,60,One year,Fiber optic,Electronic check,0,48.70999908,3000.47998,1,0,Call Center,3,49-72 months
+CUST0606,Female,0,1,1,4,Month-to-month,DSL,Bank transfer,1,74.88999939,276.0499878,0,1,Website,3,0-12 months
+CUST0607,Male,0,0,0,70,Two year,DSL,Electronic check,1,45.52999878,3333.449951,2,0,Store,3,49-72 months
+CUST0608,Female,0,1,1,55,Month-to-month,Fiber optic,Bank transfer,1,74.63999939,4122.049805,5,0,Referral,4,49-72 months
+CUST0609,Female,0,1,1,48,Month-to-month,No,Bank transfer,1,82.65000153,3960.679932,3,0,Call Center,5,25-48 months
+CUST0610,Female,0,0,0,39,Month-to-month,Fiber optic,Electronic check,1,104.5100021,4121.180176,1,1,Referral,4,25-48 months
+CUST0611,Female,0,0,0,6,One year,Fiber optic,Mailed check,1,81.16999817,488.2999878,0,0,Call Center,3,0-12 months
+CUST0612,Male,0,0,0,30,Month-to-month,DSL,Bank transfer,1,125,3644.27002,1,0,Call Center,4,25-48 months
+CUST0613,Female,0,1,0,58,Month-to-month,DSL,Credit card,1,51.86999893,2903.290039,1,0,Referral,2,49-72 months
+CUST0614,Male,0,0,0,65,Month-to-month,Fiber optic,Electronic check,1,109.6299973,7029.379883,1,0,Referral,4,49-72 months
+CUST0615,Female,0,0,0,32,Two year,DSL,Credit card,0,38.27999878,1302.359985,3,0,Referral,4,25-48 months
+CUST0616,Female,0,1,0,61,Month-to-month,Fiber optic,Credit card,1,78.62999725,4516.600098,1,0,Referral,3,49-72 months
+CUST0617,Male,0,1,1,56,Month-to-month,DSL,Bank transfer,0,42.34999847,2305.110107,2,0,Referral,4,49-72 months
+CUST0618,Male,0,0,0,4,Two year,DSL,Mailed check,1,77.66000366,295.3500061,1,0,Website,4,0-12 months
+CUST0619,Male,0,1,1,45,Month-to-month,No,Bank transfer,1,35.22999954,1566.869995,0,0,Referral,2,25-48 months
+CUST0620,Male,0,0,0,44,Month-to-month,Fiber optic,Credit card,0,77.23000336,3198.850098,2,0,Call Center,3,25-48 months
+CUST0621,Male,0,1,0,39,Two year,DSL,Electronic check,0,96.02999878,3901.449951,2,0,Call Center,3,25-48 months
+CUST0622,Male,0,1,1,56,Month-to-month,DSL,Credit card,0,59.52000046,3121.649902,1,0,Website,4,49-72 months
+CUST0623,Male,1,0,0,64,Month-to-month,Fiber optic,Credit card,0,91.19000244,5990.47998,3,0,Store,4,49-72 months
+CUST0624,Male,0,1,0,40,Month-to-month,Fiber optic,Bank transfer,0,102.0500031,3930.290039,0,0,Website,3,25-48 months
+CUST0625,Female,0,0,0,23,Month-to-month,No,Bank transfer,0,73.65000153,412.1600037,1,0,Store,3,13-24 months
+CUST0626,Male,1,0,0,71,Two year,Fiber optic,Bank transfer,0,67.52999878,4564.47998,3,0,Store,1,49-72 months
+CUST0627,Male,0,1,0,70,One year,DSL,Credit card,0,73.18000031,5311.299805,0,0,Call Center,1,49-72 months
+CUST0628,Male,0,0,0,50,One year,Fiber optic,Credit card,1,97.86000061,5243.950195,1,0,Store,3,49-72 months
+CUST0629,Female,1,0,0,46,Month-to-month,DSL,Electronic check,1,103.2699966,4538.930176,0,0,Call Center,2,25-48 months
+CUST0630,Male,0,0,0,7,One year,Fiber optic,Electronic check,1,79.25,594.9699707,0,1,Call Center,2,0-12 months
+CUST0631,Female,0,0,0,29,One year,No,Electronic check,1,27.04000092,762.2399902,2,0,Store,4,25-48 months
+CUST0632,Male,0,0,0,14,Month-to-month,DSL,Credit card,0,52.79999924,746.039978,0,0,Referral,4,13-24 months
+CUST0633,Male,0,0,0,37,Two year,Fiber optic,Mailed check,1,91.26000214,3485.530029,2,0,Referral,1,25-48 months
+CUST0634,Male,0,1,1,60,One year,DSL,Credit card,1,65.45999908,3738.620117,1,0,Referral,4,49-72 months
+CUST0635,Male,0,0,0,16,One year,DSL,Bank transfer,0,65.97000122,1046.189941,1,0,Referral,2,13-24 months
+CUST0636,Female,0,0,0,72,Month-to-month,Fiber optic,Electronic check,1,81.93000031,5491.060059,1,0,Referral,3,49-72 months
+CUST0637,Male,0,0,1,9,Month-to-month,Fiber optic,Credit card,0,96.13999939,892.539978,0,1,Referral,5,0-12 months
+CUST0638,Male,0,0,1,7,One year,DSL,Bank transfer,1,59.59999847,411.6300049,1,0,Store,4,0-12 months
+CUST0639,Female,0,1,0,71,One year,DSL,Mailed check,1,55.00999832,4150.450195,1,0,Referral,1,49-72 months
+CUST0640,Female,0,0,0,7,Month-to-month,Fiber optic,Electronic check,1,93.5,630.8300171,1,1,Referral,3,0-12 months
+CUST0641,Female,1,0,0,53,Month-to-month,No,Electronic check,1,18,1018.659973,2,0,Store,4,49-72 months
+CUST0642,Female,0,1,1,55,Two year,Fiber optic,Electronic check,1,70.72000122,3666.209961,4,0,Referral,3,49-72 months
+CUST0643,Female,0,1,0,24,Month-to-month,Fiber optic,Mailed check,1,58.66999817,1432.180054,2,0,Website,5,13-24 months
+CUST0644,Male,0,0,0,4,Month-to-month,DSL,Bank transfer,1,98.47000122,381.769989,4,1,Website,3,0-12 months
+CUST0645,Female,0,0,0,22,One year,Fiber optic,Electronic check,1,74.30000305,1551.369995,1,0,Call Center,1,13-24 months
+CUST0646,Male,0,0,0,5,Month-to-month,Fiber optic,Electronic check,0,71.66000366,335.019989,2,1,Call Center,4,0-12 months
+CUST0647,Male,0,1,1,49,Month-to-month,DSL,Electronic check,1,70.93000031,3562.120117,2,1,Store,4,49-72 months
+CUST0648,Female,0,1,1,64,Month-to-month,Fiber optic,Mailed check,1,70.90000153,4343.879883,3,1,Website,3,49-72 months
+CUST0649,Female,1,0,0,72,Two year,Fiber optic,Credit card,1,75.13999939,5473.109863,0,0,Store,5,49-72 months
+CUST0650,Female,1,0,0,58,Month-to-month,DSL,Mailed check,0,74.13999939,4629.970215,0,1,Referral,5,49-72 months
+CUST0651,Male,0,0,0,56,One year,DSL,Electronic check,0,62.72000122,3408.899902,1,0,Referral,2,49-72 months
+CUST0652,Female,0,0,0,64,Two year,DSL,Bank transfer,0,62.56000137,3705.919922,2,0,Call Center,1,49-72 months
+CUST0653,Male,0,0,0,56,One year,DSL,Credit card,0,49.77999878,2628.370117,2,1,Call Center,3,49-72 months
+CUST0654,Female,0,0,0,47,Month-to-month,DSL,Credit card,1,46.61999893,2057.679932,1,0,Store,4,25-48 months
+CUST0655,Female,0,0,1,72,Month-to-month,Fiber optic,Credit card,0,85.33000183,6107.669922,2,0,Store,4,49-72 months
+CUST0656,Female,1,0,0,23,Month-to-month,DSL,Credit card,1,78.75,1882.150024,1,1,Store,3,13-24 months
+CUST0657,Female,0,0,0,30,One year,Fiber optic,Bank transfer,0,52.58000183,1526.030029,0,0,Call Center,5,25-48 months
+CUST0658,Female,0,1,1,66,Two year,Fiber optic,Credit card,1,100.7200012,6270.839844,2,0,Store,4,49-72 months
+CUST0659,Male,0,1,0,22,One year,DSL,Electronic check,1,88.80999756,1997.829956,2,0,Store,5,13-24 months
+CUST0660,Male,1,0,0,21,Month-to-month,DSL,Credit card,0,93.44000244,1899.819946,3,0,Website,5,13-24 months
+CUST0661,Male,0,0,0,11,Month-to-month,DSL,Credit card,0,78.59999847,875,0,0,Call Center,2,0-12 months
+CUST0662,Female,0,0,0,20,Two year,Fiber optic,Credit card,0,98.01999664,2096.459961,2,0,Call Center,3,13-24 months
+CUST0663,Male,0,1,0,43,Month-to-month,Fiber optic,Bank transfer,1,125,5195.560059,2,0,Referral,3,25-48 months
+CUST0664,Male,1,0,0,64,Two year,DSL,Credit card,1,65.37000275,4192.040039,2,0,Referral,5,49-72 months
+CUST0665,Female,0,1,1,9,Month-to-month,DSL,Electronic check,1,48.99000168,462.5499878,4,1,Call Center,3,0-12 months
+CUST0666,Female,0,0,1,49,One year,Fiber optic,Bank transfer,1,50.25,2537.780029,3,0,Call Center,5,49-72 months
+CUST0667,Female,0,0,0,55,Two year,Fiber optic,Mailed check,1,122.6200027,7015.459961,0,0,Referral,3,49-72 months
+CUST0668,Female,1,0,0,65,Month-to-month,Fiber optic,Bank transfer,1,73.65000153,8337.570313,2,0,Website,3,49-72 months
+CUST0669,Female,0,0,0,54,Month-to-month,DSL,Bank transfer,0,51.65999985,2807.459961,1,0,Call Center,5,49-72 months
+CUST0670,Male,0,1,0,11,Two year,DSL,Mailed check,1,56,619.5499878,1,0,Store,3,0-12 months
+CUST0671,Female,1,1,1,35,Month-to-month,Fiber optic,Electronic check,0,76.87000275,2784.679932,1,1,Call Center,4,25-48 months
+CUST0672,Female,0,0,0,69,Month-to-month,Fiber optic,Electronic check,0,110.9300003,7896.220215,1,0,Store,3,49-72 months
+CUST0673,Female,0,0,0,66,Month-to-month,Fiber optic,Bank transfer,1,55.68000031,3774.870117,0,0,Store,2,49-72 months
+CUST0674,Male,0,0,0,44,Month-to-month,Fiber optic,Bank transfer,1,40.72999954,1758.319946,0,1,Website,1,25-48 months
+CUST0675,Female,0,1,0,70,One year,DSL,Credit card,1,119.6900024,8818.719727,1,0,Store,3,49-72 months
+CUST0676,Female,0,1,0,48,Month-to-month,Fiber optic,Electronic check,1,90.87000275,4177.660156,1,1,Referral,4,25-48 months
+CUST0677,Female,0,1,1,4,Month-to-month,DSL,Credit card,0,82,309.9299927,1,0,Website,3,0-12 months
+CUST0678,Male,0,1,0,66,Two year,DSL,Bank transfer,1,67.48999786,4343.990234,2,0,Call Center,3,49-72 months
+CUST0679,Female,1,1,1,12,Month-to-month,No,Electronic check,1,44.25,510.0899963,1,1,Referral,2,0-12 months
+CUST0680,Female,0,0,0,27,Month-to-month,No,Electronic check,0,18,498.6900024,1,0,Website,4,25-48 months
+CUST0681,Female,0,0,0,17,One year,Fiber optic,Bank transfer,0,65.5,1065.579956,1,0,Call Center,5,13-24 months
+CUST0682,Male,0,1,1,52,Two year,Fiber optic,Mailed check,0,86.30999756,4600.5,2,0,Call Center,4,49-72 months
+CUST0683,Female,0,1,0,2,One year,Fiber optic,Electronic check,1,34.04000092,68.22000122,1,1,Referral,5,0-12 months
+CUST0684,Female,0,1,0,46,Two year,DSL,Electronic check,0,65.33999634,2838.5,3,0,Referral,1,25-48 months
+CUST0685,Male,1,0,0,63,Month-to-month,Fiber optic,Electronic check,1,75.98999786,4602.310059,3,0,Website,1,49-72 months
+CUST0686,Female,1,1,1,57,Month-to-month,Fiber optic,Electronic check,1,77.33999634,4423.700195,2,0,Store,4,49-72 months
+CUST0687,Male,0,0,1,22,Two year,Fiber optic,Electronic check,0,71.87999725,1640.339966,1,0,Store,3,13-24 months
+CUST0688,Female,0,0,0,65,Two year,Fiber optic,Credit card,0,62.09000015,3970.149902,2,0,Store,4,49-72 months
+CUST0689,Male,0,1,0,26,Month-to-month,DSL,Bank transfer,1,31.92000008,794.4400024,1,0,Call Center,4,25-48 months
+CUST0690,Female,0,0,0,49,Month-to-month,DSL,Mailed check,1,75.18000031,3563.040039,0,0,Referral,2,49-72 months
+CUST0691,Female,0,0,0,36,Month-to-month,DSL,Bank transfer,1,65.40000153,2201.879883,2,0,Store,4,25-48 months
+CUST0692,Female,0,1,0,4,Month-to-month,No,Bank transfer,0,18,66.52999878,0,0,Store,1,0-12 months
+CUST0693,Female,0,1,1,0,Two year,Fiber optic,Electronic check,0,85.37999725,0,1,0,Call Center,4,0-12 months
+CUST0694,Female,0,0,0,13,Two year,Fiber optic,Electronic check,1,77.51000214,942.5599976,1,0,Store,3,13-24 months
+CUST0695,Male,0,0,0,68,Month-to-month,Fiber optic,Electronic check,1,73.86000061,4721.040039,1,1,Website,4,49-72 months
+CUST0696,Male,0,0,0,69,Month-to-month,DSL,Bank transfer,0,24.54999924,1794.48999,0,0,Store,2,49-72 months
+CUST0697,Female,0,0,0,29,Month-to-month,DSL,Bank transfer,0,87.01999664,2589.600098,3,1,Call Center,5,25-48 months
+CUST0698,Female,0,1,1,70,Month-to-month,Fiber optic,Mailed check,1,56.86999893,3940.179932,1,0,Store,5,49-72 months
+CUST0699,Male,0,0,0,3,One year,No,Bank transfer,1,35.38999939,108.6999969,1,1,Store,4,0-12 months
+CUST0700,Male,0,0,0,70,Month-to-month,Fiber optic,Credit card,0,66.22000122,4958.009766,3,1,Store,4,49-72 months
+CUST0701,Female,0,1,0,16,Month-to-month,Fiber optic,Electronic check,1,75.44999695,1129.819946,0,1,Store,4,13-24 months
+CUST0702,Female,0,0,0,2,One year,DSL,Bank transfer,1,97.34999847,186.7200012,2,1,Referral,4,0-12 months
+CUST0703,Male,0,0,0,55,Two year,No,Bank transfer,1,45.70000076,2658.399902,2,1,Call Center,4,49-72 months
+CUST0704,Male,0,0,0,27,Month-to-month,DSL,Bank transfer,1,96.86000061,2732.649902,2,1,Website,4,25-48 months
+CUST0705,Male,0,1,1,21,Month-to-month,No,Credit card,0,41.27000046,935.210022,1,0,Call Center,5,13-24 months
+CUST0706,Female,1,1,1,55,Month-to-month,Fiber optic,Bank transfer,1,92.72000122,4947.759766,0,0,Website,4,49-72 months
+CUST0707,Male,0,0,0,24,Month-to-month,DSL,Electronic check,1,32.81000137,843.4899902,0,0,Website,2,13-24 months
+CUST0708,Female,0,0,0,54,Month-to-month,DSL,Mailed check,1,65.01000214,3422.73999,1,0,Store,5,49-72 months
+CUST0709,Male,0,0,0,14,One year,DSL,Credit card,0,67.05000305,971.0100098,1,1,Store,3,13-24 months
+CUST0710,Male,1,0,0,6,Month-to-month,Fiber optic,Mailed check,1,110.9199982,706.2800293,0,1,Call Center,2,0-12 months
+CUST0711,Female,0,1,0,23,Month-to-month,No,Credit card,1,22.86000061,498.0799866,0,0,Referral,5,13-24 months
+CUST0712,Female,1,1,0,44,Two year,Fiber optic,Mailed check,1,89.83000183,3766.360107,1,0,Website,3,25-48 months
+CUST0713,Female,0,1,0,16,Month-to-month,Fiber optic,Bank transfer,1,88.97000122,1441.959961,0,0,Referral,2,13-24 months
+CUST0714,Female,0,1,0,10,One year,No,Bank transfer,0,59.47000122,627.4199829,3,0,Store,4,0-12 months
+CUST0715,Female,0,1,0,54,One year,No,Mailed check,0,31.05999947,1564.25,3,0,Referral,4,49-72 months
+CUST0716,Female,0,0,0,36,Two year,No,Credit card,0,52.20999908,1985.079956,0,0,Referral,1,25-48 months
+CUST0717,Female,0,1,0,31,One year,No,Electronic check,1,73.65000153,543.9899902,1,0,Call Center,4,25-48 months
+CUST0718,Male,0,1,0,17,Two year,Fiber optic,Bank transfer,1,48.49000168,811.960022,1,0,Store,1,13-24 months
+CUST0719,Male,0,0,0,1,One year,No,Bank transfer,0,18,17.54000092,0,0,Store,3,0-12 months
+CUST0720,Female,1,1,0,3,Month-to-month,Fiber optic,Credit card,1,101.2900009,323.8800049,0,0,Store,3,0-12 months
+CUST0721,Male,0,1,0,49,Month-to-month,DSL,Bank transfer,0,86.81999969,4002.870117,0,0,Referral,2,49-72 months
+CUST0722,Female,0,0,0,5,Month-to-month,Fiber optic,Credit card,1,103.7300034,524.8099976,1,0,Store,5,0-12 months
+CUST0723,Female,0,1,0,18,Month-to-month,DSL,Credit card,1,57.09999847,969.9299927,1,0,Call Center,4,13-24 months
+CUST0724,Male,0,0,0,66,Month-to-month,DSL,Mailed check,1,59.59999847,4203.350098,3,0,Store,5,49-72 months
+CUST0725,Female,0,0,0,25,Month-to-month,DSL,Credit card,1,69.33999634,1816.130005,1,1,Referral,5,25-48 months
+CUST0726,Male,1,1,0,54,Month-to-month,Fiber optic,Credit card,1,115.7600021,5984.810059,2,0,Call Center,5,49-72 months
+CUST0727,Female,0,0,0,25,Month-to-month,Fiber optic,Electronic check,1,121.2600021,2933.409912,1,0,Website,4,25-48 months
+CUST0728,Male,0,0,0,68,Month-to-month,Fiber optic,Bank transfer,1,101.4599991,6768.490234,1,0,Website,3,49-72 months
+CUST0729,Male,0,0,0,59,One year,Fiber optic,Electronic check,1,91.27999878,5304.02002,0,0,Referral,5,49-72 months
+CUST0730,Female,0,0,0,34,One year,DSL,Bank transfer,0,101.3799973,3621.939941,3,0,Store,4,25-48 months
+CUST0731,Female,0,0,0,49,Two year,Fiber optic,Electronic check,1,78.37000275,3879.780029,3,0,Referral,3,49-72 months
+CUST0732,Male,0,0,0,30,Month-to-month,DSL,Credit card,0,63.40000153,1880.069946,0,0,Referral,3,25-48 months
+CUST0733,Female,0,0,0,68,Two year,Fiber optic,Mailed check,1,81.16000366,5712.649902,3,0,Referral,3,49-72 months
+CUST0734,Female,1,1,0,26,One year,Fiber optic,Bank transfer,1,62.47000122,1613.27002,0,0,Call Center,3,25-48 months
+CUST0735,Male,1,0,0,61,Month-to-month,DSL,Electronic check,1,68.15000153,3909.879883,0,0,Referral,4,49-72 months
+CUST0736,Female,1,0,0,44,Two year,Fiber optic,Bank transfer,0,59.41999817,2450.290039,2,0,Call Center,4,25-48 months
+CUST0737,Female,0,0,0,46,Month-to-month,Fiber optic,Bank transfer,1,106.5500031,4764.810059,0,0,Referral,3,25-48 months
+CUST0738,Male,0,1,0,25,One year,Fiber optic,Bank transfer,0,95.95999908,2438.48999,1,0,Website,2,25-48 months
+CUST0739,Female,1,1,0,60,One year,Fiber optic,Electronic check,1,115.4499969,6522.290039,2,0,Website,5,49-72 months
+CUST0740,Female,0,0,0,54,Month-to-month,DSL,Electronic check,0,36.15999985,1968.300049,1,0,Website,3,49-72 months
+CUST0741,Female,0,0,0,59,One year,Fiber optic,Mailed check,0,125,7103.140137,0,0,Call Center,3,49-72 months
+CUST0742,Female,0,1,1,58,Month-to-month,Fiber optic,Credit card,0,49.40999985,2955.379883,1,0,Referral,4,49-72 months
+CUST0743,Female,0,1,0,11,Month-to-month,DSL,Electronic check,1,73.65000153,464.1499939,1,1,Store,5,0-12 months
+CUST0744,Male,0,1,0,63,Month-to-month,DSL,Bank transfer,0,58.34000015,3657.199951,0,0,Call Center,4,49-72 months
+CUST0745,Female,1,0,0,61,Month-to-month,DSL,Electronic check,1,100.7699966,5706.609863,1,0,Website,4,49-72 months
+CUST0746,Male,0,1,0,17,Month-to-month,Fiber optic,Bank transfer,0,88.95999908,1471.310059,2,0,Website,3,13-24 months
+CUST0747,Female,0,0,0,71,One year,No,Electronic check,1,28.63999939,1875.829956,1,0,Call Center,5,49-72 months
+CUST0748,Male,0,1,0,38,Month-to-month,Fiber optic,Mailed check,1,66.55999756,2516.77002,0,0,Store,4,25-48 months
+CUST0749,Male,0,1,1,23,Month-to-month,Fiber optic,Mailed check,1,53.72999954,1288.589966,0,0,Store,4,13-24 months
+CUST0750,Male,0,1,1,16,One year,No,Electronic check,0,58.91999817,882.4199829,2,0,Referral,2,13-24 months
+CUST0751,Female,0,0,0,26,Month-to-month,DSL,Mailed check,1,89.56999969,2416.469971,1,0,Call Center,4,25-48 months
+CUST0752,Male,0,0,0,2,Month-to-month,DSL,Mailed check,1,101.75,206.2400055,0,0,Store,3,0-12 months
+CUST0753,Male,0,0,0,50,One year,No,Bank transfer,1,42.72999954,2138.070068,0,0,Referral,3,49-72 months
+CUST0754,Female,0,0,0,51,Two year,Fiber optic,Credit card,0,25.87000084,1340.369995,1,0,Store,4,49-72 months
+CUST0755,Female,1,1,0,48,Month-to-month,DSL,Bank transfer,1,44.61999893,2085.52002,1,0,Website,4,25-48 months
+CUST0756,Male,0,0,0,40,Month-to-month,DSL,Credit card,0,82.23000336,3399.899902,1,0,Website,3,25-48 months
+CUST0757,Female,0,1,1,26,One year,Fiber optic,Bank transfer,1,75.87000275,2060.889893,1,0,Website,5,25-48 months
+CUST0758,Male,0,1,1,52,Two year,Fiber optic,Electronic check,0,71.70999908,3894.919922,3,0,Call Center,3,49-72 months
+CUST0759,Male,0,1,0,63,Month-to-month,Fiber optic,Electronic check,0,59.72999954,3624.189941,2,0,Store,4,49-72 months
+CUST0760,Female,0,1,1,6,Month-to-month,No,Mailed check,0,54.84999847,337.2000122,2,0,Website,2,0-12 months
+CUST0761,Male,0,0,0,27,Month-to-month,Fiber optic,Electronic check,0,73.65000153,2396.120117,2,1,Call Center,3,25-48 months
+CUST0762,Female,0,0,0,72,One year,Fiber optic,Credit card,1,95.02999878,6837.149902,1,0,Call Center,5,49-72 months
+CUST0763,Female,0,0,0,62,Two year,DSL,Bank transfer,1,58.06000137,3313.26001,1,0,Referral,1,49-72 months
+CUST0764,Female,0,0,0,72,One year,DSL,Bank transfer,0,75.87999725,5195.509766,1,0,Website,5,49-72 months
+CUST0765,Male,0,0,0,13,Month-to-month,Fiber optic,Bank transfer,1,54.56999969,724.3599854,0,0,Referral,3,13-24 months
+CUST0766,Female,0,1,0,33,One year,DSL,Mailed check,1,69.13999939,2418.280029,0,0,Store,4,25-48 months
+CUST0767,Female,0,1,0,9,Two year,DSL,Bank transfer,0,18,150.3099976,0,0,Store,2,0-12 months
+CUST0768,Male,0,1,1,63,Month-to-month,DSL,Electronic check,1,37.5,2384.629883,0,0,Referral,4,49-72 months
+CUST0769,Male,0,0,1,37,Two year,Fiber optic,Electronic check,1,76.91000366,2907.939941,3,0,Website,5,25-48 months
+CUST0770,Male,0,0,0,17,Month-to-month,Fiber optic,Electronic check,0,125,2272.01001,1,0,Store,4,13-24 months
+CUST0771,Female,0,1,0,6,Month-to-month,DSL,Electronic check,1,32.38000107,199.1000061,3,1,Store,3,0-12 months
+CUST0772,Female,1,0,1,53,One year,Fiber optic,Bank transfer,1,56.63999939,2811.25,1,0,Referral,4,49-72 months
+CUST0773,Male,0,0,0,59,Month-to-month,DSL,Electronic check,1,76.76999664,4273.419922,1,1,Store,4,49-72 months
+CUST0774,Female,0,0,0,64,Two year,Fiber optic,Electronic check,1,122.9300003,8038.419922,3,0,Store,2,49-72 months
+CUST0775,Female,1,0,0,70,Month-to-month,DSL,Credit card,0,76.44999695,5108,5,0,Store,4,49-72 months
+CUST0776,Female,0,0,0,59,Month-to-month,No,Credit card,0,49.45000076,3117.48999,1,0,Website,4,49-72 months
+CUST0777,Male,0,0,0,57,Month-to-month,DSL,Bank transfer,1,64.56999969,3928.219971,2,0,Referral,4,49-72 months
+CUST0778,Male,1,0,0,59,Month-to-month,No,Bank transfer,1,22.77000046,1439.869995,0,0,Referral,3,49-72 months
+CUST0779,Male,0,1,0,72,Month-to-month,No,Credit card,1,35.81000137,2492.909912,1,0,Call Center,3,49-72 months
+CUST0780,Female,0,0,0,33,One year,Fiber optic,Electronic check,1,69.51999664,2373.790039,2,0,Call Center,5,25-48 months
+CUST0781,Female,0,1,1,55,Month-to-month,Fiber optic,Mailed check,0,99.93000031,5639.5,1,0,Call Center,4,49-72 months
+CUST0782,Female,0,0,0,59,Month-to-month,No,Electronic check,1,18,983.0900269,1,0,Referral,4,49-72 months
+CUST0783,Male,0,1,0,8,One year,No,Mailed check,1,53.58000183,412.5599976,1,0,Referral,5,0-12 months
+CUST0784,Male,1,1,1,50,Month-to-month,No,Credit card,0,34.86000061,1661.219971,1,0,Referral,3,49-72 months
+CUST0785,Male,1,1,0,24,One year,DSL,Credit card,0,67.27999878,1581.339966,1,1,Call Center,3,13-24 months
+CUST0786,Female,0,1,0,9,Month-to-month,Fiber optic,Credit card,1,47.84999847,461.8699951,1,1,Store,4,0-12 months
+CUST0787,Male,0,1,0,12,Month-to-month,No,Credit card,0,18,227.9400024,0,0,Store,4,0-12 months
+CUST0788,Female,0,1,1,8,One year,No,Bank transfer,1,60.36999893,467,1,0,Referral,5,0-12 months
+CUST0789,Female,1,1,1,65,One year,DSL,Credit card,1,67.41000366,4402.700195,3,0,Store,4,49-72 months
+CUST0790,Male,0,1,0,56,Two year,DSL,Bank transfer,1,78.12000275,4159.319824,1,0,Call Center,3,49-72 months
+CUST0791,Male,1,0,1,7,Month-to-month,DSL,Bank transfer,0,52.65000153,355.4299927,1,1,Store,3,0-12 months
+CUST0792,Male,0,0,0,45,Month-to-month,No,Electronic check,0,33.36000061,1396.719971,4,0,Referral,2,25-48 months
+CUST0793,Female,0,0,0,48,One year,Fiber optic,Bank transfer,1,53.81000137,2641.810059,0,0,Call Center,5,25-48 months
+CUST0794,Female,0,1,1,37,One year,No,Electronic check,1,36.20000076,1373.030029,2,0,Call Center,2,25-48 months
+CUST0795,Male,0,1,0,44,One year,Fiber optic,Bank transfer,0,92.15000153,4274.200195,2,0,Call Center,4,25-48 months
+CUST0796,Male,0,0,0,66,Month-to-month,Fiber optic,Electronic check,1,91.05000305,6366.540039,0,0,Call Center,3,49-72 months
+CUST0797,Female,0,1,0,37,One year,Fiber optic,Bank transfer,1,64.12000275,2243.399902,1,0,Referral,2,25-48 months
+CUST0798,Male,1,1,0,48,Month-to-month,Fiber optic,Electronic check,1,76.47000122,3813.300049,1,1,Referral,3,25-48 months
+CUST0799,Male,0,0,0,41,Month-to-month,Fiber optic,Electronic check,0,95.81999969,3699,2,0,Website,4,25-48 months
+CUST0800,Male,0,0,0,28,Month-to-month,No,Bank transfer,0,29.35000038,805.2000122,1,0,Referral,1,25-48 months
+CUST0801,Male,0,1,1,65,Month-to-month,DSL,Electronic check,0,65.68000031,4279.810059,1,0,Store,5,49-72 months
+CUST0802,Male,0,0,0,30,One year,No,Credit card,1,75.87999725,2112.310059,1,0,Store,5,25-48 months
+CUST0803,Female,1,1,1,58,Month-to-month,Fiber optic,Mailed check,1,63.08000183,3457.719971,1,0,Website,2,49-72 months
+CUST0804,Female,0,0,0,44,Month-to-month,Fiber optic,Mailed check,1,107.7699966,4568.22998,4,0,Call Center,5,25-48 months
+CUST0805,Female,0,1,1,50,Two year,DSL,Electronic check,1,46.59999847,2191.149902,5,0,Website,3,49-72 months
+CUST0806,Female,0,1,1,55,One year,DSL,Electronic check,1,86.41000366,5082.640137,0,0,Website,1,49-72 months
+CUST0807,Female,1,0,0,53,Month-to-month,DSL,Bank transfer,0,87.58000183,4484.529785,2,0,Store,3,49-72 months
+CUST0808,Male,0,1,0,41,Two year,DSL,Mailed check,0,60.77000046,2492.040039,2,0,Website,5,25-48 months
+CUST0809,Male,1,0,0,44,Month-to-month,DSL,Electronic check,0,45.22000122,2147.75,1,0,Call Center,4,25-48 months
+CUST0810,Female,0,1,0,37,One year,DSL,Credit card,1,28.64999962,1071.349976,1,0,Website,3,25-48 months
+CUST0811,Male,0,0,0,24,Month-to-month,No,Credit card,1,20.46999931,484.3200073,1,0,Website,4,13-24 months
+CUST0812,Female,1,0,0,53,Month-to-month,DSL,Mailed check,1,83.58000183,4734.359863,2,0,Call Center,4,49-72 months
+CUST0813,Female,1,0,0,64,Month-to-month,DSL,Electronic check,1,48.29000092,2953.340088,2,0,Referral,4,49-72 months
+CUST0814,Male,1,0,0,51,Month-to-month,Fiber optic,Electronic check,1,86.12999725,4167.379883,0,0,Store,4,49-72 months
+CUST0815,Female,0,1,0,56,Month-to-month,Fiber optic,Electronic check,1,51.52000046,2901.439941,1,1,Store,5,49-72 months
+CUST0816,Female,0,0,0,60,Month-to-month,Fiber optic,Credit card,0,78.84999847,4675.970215,1,0,Website,4,49-72 months
+CUST0817,Male,0,1,0,26,One year,DSL,Credit card,1,46.77000046,1273.800049,1,1,Store,4,25-48 months
+CUST0818,Male,0,0,0,4,Month-to-month,DSL,Credit card,1,70.27999878,260.519989,0,0,Store,5,0-12 months
+CUST0819,Female,1,0,0,24,Month-to-month,Fiber optic,Credit card,1,72.98000336,1784.51001,1,0,Website,3,13-24 months
+CUST0820,Female,1,0,0,55,Two year,DSL,Electronic check,0,45.81000137,2604.47998,1,0,Call Center,4,49-72 months
+CUST0821,Male,0,0,0,59,One year,Fiber optic,Credit card,1,69.5,4410.120117,1,0,Call Center,4,49-72 months
+CUST0822,Female,0,0,0,37,Two year,Fiber optic,Electronic check,1,63.45000076,2214.590088,4,0,Call Center,3,25-48 months
+CUST0823,Male,0,1,0,56,Month-to-month,No,Electronic check,1,18,967.0700073,1,0,Website,2,49-72 months
+CUST0824,Female,0,0,0,5,Month-to-month,Fiber optic,Electronic check,1,107.8199997,576.4000244,1,0,Website,4,0-12 months
+CUST0825,Female,0,0,0,47,One year,Fiber optic,Electronic check,1,76.08000183,3650.5,1,0,Call Center,5,25-48 months
+CUST0826,Male,0,1,0,49,Month-to-month,DSL,Credit card,1,23.54999924,1068.660034,1,0,Referral,5,49-72 months
+CUST0827,Female,0,0,0,37,Month-to-month,Fiber optic,Credit card,1,70.29000092,2424.860107,1,0,Store,4,25-48 months
+CUST0828,Female,0,1,1,52,Two year,DSL,Credit card,0,92.12000275,5009.009766,2,0,Referral,3,49-72 months
+CUST0829,Female,0,1,0,35,One year,No,Credit card,1,18,636.7999878,3,0,Website,3,25-48 months
+CUST0830,Male,0,1,0,38,One year,DSL,Mailed check,1,104.9499969,4029.840088,1,0,Store,4,25-48 months
+CUST0831,Male,1,1,0,44,Month-to-month,DSL,Electronic check,1,53.15000153,2480.73999,2,0,Website,3,25-48 months
+CUST0832,Male,0,0,0,57,One year,Fiber optic,Credit card,0,95.06999969,5194.509766,0,0,Website,4,49-72 months
+CUST0833,Male,0,0,1,18,Month-to-month,DSL,Bank transfer,1,94.80999756,1613.859985,1,0,Store,3,13-24 months
+CUST0834,Male,0,0,0,21,Two year,Fiber optic,Credit card,1,93.90000153,2007.810059,2,1,Website,1,13-24 months
+CUST0835,Female,0,0,0,30,Month-to-month,Fiber optic,Electronic check,1,53.75999832,1711.47998,1,0,Website,4,25-48 months
+CUST0836,Female,1,1,0,14,Month-to-month,No,Electronic check,0,18,242.5299988,0,0,Call Center,4,13-24 months
+CUST0837,Female,0,1,0,24,Month-to-month,Fiber optic,Mailed check,1,109.7399979,2710.159912,2,1,Store,4,13-24 months
+CUST0838,Male,0,1,1,25,One year,DSL,Bank transfer,0,54.29999924,1282,2,0,Store,3,25-48 months
+CUST0839,Male,1,0,0,22,Two year,Fiber optic,Credit card,0,105.4599991,2198.330078,1,0,Website,4,13-24 months
+CUST0840,Female,1,1,1,29,Two year,DSL,Credit card,1,62.52999878,1929.859985,0,0,Website,4,25-48 months
+CUST0841,Male,0,0,0,36,One year,Fiber optic,Electronic check,1,87.11000061,2944.27002,2,0,Referral,4,25-48 months
+CUST0842,Female,0,0,0,50,Two year,Fiber optic,Bank transfer,1,53.50999832,2471.879883,1,0,Referral,4,49-72 months
+CUST0843,Female,0,0,0,22,One year,DSL,Electronic check,0,58.61999893,1346.369995,1,0,Referral,3,13-24 months
+CUST0844,Male,0,0,0,61,Month-to-month,Fiber optic,Electronic check,1,64.73999786,3862.26001,0,0,Website,4,49-72 months
+CUST0845,Male,0,1,0,34,One year,No,Mailed check,1,38.95999908,1302.73999,2,0,Call Center,4,25-48 months
+CUST0846,Male,0,0,0,52,Month-to-month,Fiber optic,Bank transfer,1,86.05000305,4689.279785,1,0,Referral,4,49-72 months
+CUST0847,Male,1,0,0,8,Month-to-month,DSL,Bank transfer,0,82.18000031,623.7700195,2,0,Call Center,4,0-12 months
+CUST0848,Male,0,0,0,12,Month-to-month,No,Mailed check,1,23.20999908,285.2200012,2,0,Referral,2,0-12 months
+CUST0849,Female,0,0,0,33,Month-to-month,DSL,Bank transfer,1,51.52999878,1649.76001,1,0,Referral,5,25-48 months
+CUST0850,Female,0,0,0,26,Two year,DSL,Credit card,1,76.01999664,1851.369995,0,0,Website,3,25-48 months
+CUST0851,Female,0,0,0,36,Two year,Fiber optic,Electronic check,1,61.34999847,2274.860107,0,0,Store,3,25-48 months
+CUST0852,Female,0,1,1,11,Month-to-month,DSL,Mailed check,0,95.73000336,1022.47998,0,0,Website,4,0-12 months
+CUST0853,Female,1,0,0,34,One year,No,Bank transfer,0,31.47999954,1133.099976,1,1,Store,3,25-48 months
+CUST0854,Male,1,0,0,50,Month-to-month,DSL,Credit card,1,64.83000183,3458.830078,1,1,Call Center,5,49-72 months
+CUST0855,Male,0,1,0,53,Month-to-month,No,Credit card,1,44.16999817,2471.75,0,0,Referral,4,49-72 months
+CUST0856,Female,0,0,0,18,Month-to-month,DSL,Electronic check,0,70.31999969,1229.780029,1,0,Call Center,3,13-24 months
+CUST0857,Male,0,1,0,25,Month-to-month,DSL,Bank transfer,1,35.52000046,850.5700073,1,0,Store,1,25-48 months
+CUST0858,Male,0,0,0,38,Month-to-month,Fiber optic,Credit card,1,60.65000153,2449.550049,1,1,Website,1,25-48 months
+CUST0859,Female,1,1,0,37,Month-to-month,DSL,Mailed check,1,95.26999664,3498.449951,1,0,Website,2,25-48 months
+CUST0860,Female,0,1,1,57,Month-to-month,No,Mailed check,0,35.84999847,2111.370117,1,0,Store,1,49-72 months
+CUST0861,Female,0,0,0,28,Month-to-month,DSL,Credit card,0,35.00999832,1031.589966,0,0,Store,3,25-48 months
+CUST0862,Female,0,1,1,48,Two year,Fiber optic,Electronic check,0,91.75,4247.350098,1,0,Website,3,25-48 months
+CUST0863,Male,0,1,0,64,Month-to-month,DSL,Bank transfer,1,59.70000076,3587.939941,2,0,Store,3,49-72 months
+CUST0864,Female,0,1,1,21,Month-to-month,DSL,Credit card,0,52.75999832,1130.089966,2,0,Call Center,3,13-24 months
+CUST0865,Female,0,0,0,60,Month-to-month,No,Electronic check,1,18,1095.589966,0,0,Website,1,49-72 months
+CUST0866,Female,0,0,0,24,Month-to-month,Fiber optic,Bank transfer,0,106,2450.459961,1,0,Call Center,1,13-24 months
+CUST0867,Female,0,0,0,24,Month-to-month,Fiber optic,Bank transfer,1,40.75999832,991.5,0,0,Store,2,13-24 months
+CUST0868,Female,0,1,1,47,Month-to-month,Fiber optic,Credit card,1,65.56999969,3224.959961,0,0,Store,3,25-48 months
+CUST0869,Male,0,0,0,45,One year,Fiber optic,Credit card,1,86.63999939,3805.23999,1,0,Website,2,25-48 months
+CUST0870,Male,0,1,0,40,One year,No,Credit card,1,68.72000122,2635.469971,1,0,Store,3,25-48 months
+CUST0871,Male,1,0,0,16,One year,Fiber optic,Electronic check,1,96.18000031,1594.280029,2,0,Referral,5,13-24 months
+CUST0872,Male,0,1,1,7,One year,DSL,Credit card,1,53.38999939,390.8200073,0,0,Referral,3,0-12 months
+CUST0873,Male,0,1,1,66,Month-to-month,Fiber optic,Credit card,0,117.6500015,8329.299805,1,0,Call Center,2,49-72 months
+CUST0874,Male,0,1,1,63,Month-to-month,Fiber optic,Bank transfer,0,54.18999863,3221.469971,1,0,Website,4,49-72 months
+CUST0875,Female,0,0,0,64,Month-to-month,No,Bank transfer,1,39.84000015,2708.560059,1,0,Website,4,49-72 months
+CUST0876,Female,0,0,0,37,Month-to-month,DSL,Electronic check,1,82.73000336,3190.850098,3,0,Referral,1,25-48 months
+CUST0877,Female,0,1,1,64,Month-to-month,Fiber optic,Credit card,1,64.62000275,4269.279785,2,0,Store,4,49-72 months
+CUST0878,Female,1,0,0,34,Month-to-month,Fiber optic,Electronic check,1,99.34999847,3276.860107,2,1,Website,4,25-48 months
+CUST0879,Female,0,0,0,5,One year,No,Electronic check,1,22.69000053,104.7799988,1,0,Call Center,5,0-12 months
+CUST0880,Female,0,1,1,14,Month-to-month,No,Credit card,0,49.29000092,690.8900146,1,0,Store,5,13-24 months
+CUST0881,Male,0,0,0,19,Month-to-month,Fiber optic,Credit card,0,43.52999878,798.7199707,1,0,Call Center,4,13-24 months
+CUST0882,Female,0,0,0,27,One year,DSL,Credit card,1,79.37000275,2070.919922,2,0,Referral,4,25-48 months
+CUST0883,Male,0,1,0,68,Month-to-month,Fiber optic,Bank transfer,0,74.93000031,5443.459961,1,0,Website,3,49-72 months
+CUST0884,Male,0,0,1,24,Two year,DSL,Electronic check,0,97.29000092,2205.310059,1,0,Website,5,13-24 months
+CUST0885,Female,0,1,0,44,Two year,Fiber optic,Bank transfer,1,83.02999878,3907.139893,0,0,Store,4,25-48 months
+CUST0886,Female,0,0,0,19,Two year,DSL,Electronic check,0,99.48000336,1891.27002,3,0,Store,3,13-24 months
+CUST0887,Male,1,1,0,46,Month-to-month,No,Credit card,1,45.16999817,2190.280029,1,0,Store,1,25-48 months
+CUST0888,Male,0,0,0,41,Month-to-month,Fiber optic,Bank transfer,1,81.19000244,3213.530029,3,1,Call Center,4,25-48 months
+CUST0889,Male,1,1,0,10,One year,Fiber optic,Mailed check,0,101.3300018,1035.01001,0,0,Call Center,4,0-12 months
+CUST0890,Male,0,0,0,33,One year,Fiber optic,Electronic check,0,101.4700012,3378.830078,2,0,Store,5,25-48 months
+CUST0891,Male,0,0,0,7,One year,Fiber optic,Mailed check,1,94.37999725,705.5,4,1,Website,2,0-12 months
+CUST0892,Female,0,1,0,64,Month-to-month,Fiber optic,Credit card,1,33.56999969,2038.23999,1,0,Store,5,49-72 months
+CUST0893,Female,0,0,0,51,Month-to-month,Fiber optic,Bank transfer,0,62.38000107,3031,1,0,Call Center,1,49-72 months
+CUST0894,Female,0,0,0,68,Month-to-month,No,Electronic check,1,64.44999695,4697.419922,1,0,Call Center,4,49-72 months
+CUST0895,Female,0,0,0,63,Month-to-month,Fiber optic,Electronic check,0,56.36999893,3322.870117,0,1,Call Center,3,49-72 months
+CUST0896,Female,0,1,0,16,Month-to-month,DSL,Mailed check,0,91.41000366,1494.079956,0,0,Website,3,13-24 months
+CUST0897,Female,1,0,0,51,Two year,Fiber optic,Electronic check,1,99.54000092,4719.609863,1,0,Referral,3,49-72 months
+CUST0898,Male,0,1,1,7,Month-to-month,DSL,Credit card,0,56.02999878,365.6600037,0,1,Store,3,0-12 months
+CUST0899,Male,0,1,1,70,One year,Fiber optic,Bank transfer,0,40.09999847,2850.629883,0,0,Website,2,49-72 months
+CUST0900,Female,0,0,0,57,Two year,No,Electronic check,0,21.47999954,1234.420044,1,0,Referral,5,49-72 months
+CUST0901,Male,0,0,0,49,Month-to-month,Fiber optic,Credit card,1,125,6196.569824,1,0,Website,3,49-72 months
+CUST0902,Male,1,0,0,72,Month-to-month,Fiber optic,Mailed check,1,65.01000214,4660.990234,0,0,Website,4,49-72 months
+CUST0903,Male,0,1,0,61,One year,DSL,Electronic check,1,54.52999878,3455.320068,0,0,Website,4,49-72 months
+CUST0904,Female,0,0,0,63,Month-to-month,DSL,Bank transfer,1,50.04999924,3401.459961,1,0,Call Center,1,49-72 months
+CUST0905,Male,0,0,0,7,Month-to-month,DSL,Electronic check,0,98.73000336,666.3200073,0,0,Call Center,5,0-12 months
+CUST0906,Female,0,1,0,1,Two year,Fiber optic,Bank transfer,0,78.66000366,76.44000244,0,0,Referral,4,0-12 months
+CUST0907,Male,0,0,0,70,One year,Fiber optic,Credit card,1,70.23000336,4776.919922,1,0,Website,4,49-72 months
+CUST0908,Male,0,1,0,18,Two year,DSL,Credit card,1,103.0999985,1933.969971,0,0,Referral,5,13-24 months
+CUST0909,Male,0,1,0,31,Two year,DSL,Mailed check,1,84.75,2563.360107,3,0,Referral,4,25-48 months
+CUST0910,Male,0,0,0,3,Month-to-month,DSL,Bank transfer,0,51.77999878,159.7299957,4,0,Website,5,0-12 months
+CUST0911,Female,0,0,0,45,One year,Fiber optic,Electronic check,1,57.08000183,2546.360107,2,0,Store,2,25-48 months
+CUST0912,Male,0,1,0,59,One year,Fiber optic,Bank transfer,0,109.4800034,6570.740234,0,0,Call Center,1,49-72 months
+CUST0913,Male,0,1,0,61,One year,No,Electronic check,1,34.36999893,2206.939941,1,0,Call Center,4,49-72 months
+CUST0914,Female,0,1,1,42,One year,DSL,Bank transfer,1,37.91999817,1596.219971,2,0,Call Center,3,25-48 months
+CUST0915,Female,1,0,1,48,One year,Fiber optic,Electronic check,0,44.77000046,2140.419922,0,0,Call Center,4,25-48 months
+CUST0916,Male,0,1,1,37,Two year,No,Credit card,1,18,641.1699829,3,0,Website,3,25-48 months
+CUST0917,Female,0,0,0,32,Month-to-month,DSL,Credit card,1,44.72999954,1435,0,0,Store,3,25-48 months
+CUST0918,Female,1,0,0,40,One year,Fiber optic,Electronic check,0,38.99000168,1500.310059,0,1,Store,5,25-48 months
+CUST0919,Male,0,1,0,68,Month-to-month,Fiber optic,Credit card,1,59.81000137,4290.649902,0,0,Website,2,49-72 months
+CUST0920,Female,0,0,0,18,One year,DSL,Electronic check,0,51.77999878,915.4699707,1,0,Website,2,13-24 months
+CUST0921,Female,0,0,0,34,One year,Fiber optic,Credit card,0,73.81999969,2360.939941,0,0,Store,4,25-48 months
+CUST0922,Female,0,0,0,43,One year,DSL,Electronic check,0,109.2399979,4501.890137,1,0,Store,4,25-48 months
+CUST0923,Female,1,1,1,41,Month-to-month,DSL,Electronic check,1,73.65000153,2726.330078,0,1,Website,5,25-48 months
+CUST0924,Male,0,1,0,2,Month-to-month,Fiber optic,Bank transfer,1,80.30999756,171.3200073,1,0,Referral,3,0-12 months
+CUST0925,Male,0,1,1,20,Month-to-month,No,Bank transfer,0,45.20000076,875.1500244,2,0,Website,4,13-24 months
+CUST0926,Female,0,0,1,47,Month-to-month,Fiber optic,Bank transfer,1,78.77999878,3563.080078,2,0,Website,4,25-48 months
+CUST0927,Female,0,0,0,50,Month-to-month,Fiber optic,Bank transfer,0,92.80000305,4570.629883,2,0,Store,5,49-72 months
+CUST0928,Male,0,1,0,53,Two year,DSL,Electronic check,0,78.16999817,4453.080078,1,0,Store,1,49-72 months
+CUST0929,Male,0,1,1,72,Month-to-month,DSL,Electronic check,1,74.69999695,5675.47998,1,1,Call Center,3,49-72 months
+CUST0930,Female,0,0,0,49,Two year,Fiber optic,Bank transfer,1,125,5781.669922,2,0,Call Center,4,49-72 months
+CUST0931,Female,0,1,0,42,Month-to-month,DSL,Electronic check,0,92.04000092,3936.040039,0,0,Website,4,25-48 months
+CUST0932,Female,0,1,0,24,One year,No,Electronic check,1,18,452.1700134,1,0,Referral,2,13-24 months
+CUST0933,Male,0,0,0,27,One year,DSL,Electronic check,1,80.13999939,2256.570068,0,0,Call Center,4,25-48 months
+CUST0934,Female,0,1,1,60,One year,DSL,Bank transfer,0,54.58000183,3268.959961,0,0,Website,4,49-72 months
+CUST0935,Male,0,1,0,34,One year,Fiber optic,Bank transfer,1,93.81999969,3308.199951,1,0,Call Center,3,25-48 months
+CUST0936,Female,0,1,1,52,One year,Fiber optic,Credit card,1,53.75,2832.379883,2,0,Call Center,4,49-72 months
+CUST0937,Male,0,1,1,9,Two year,DSL,Mailed check,0,47.63000107,408.1900024,1,0,Website,3,0-12 months
+CUST0938,Male,0,0,1,9,One year,Fiber optic,Bank transfer,0,91.56999969,765.5900269,0,0,Website,5,0-12 months
+CUST0939,Male,0,0,0,15,Month-to-month,DSL,Bank transfer,1,93.94999695,1379.819946,1,1,Store,4,13-24 months
+CUST0940,Female,0,0,0,14,Month-to-month,Fiber optic,Electronic check,0,95.05999756,1237.560059,2,0,Referral,4,13-24 months
+CUST0941,Female,0,1,1,44,One year,Fiber optic,Electronic check,0,102.7900009,4446.790039,2,0,Call Center,5,25-48 months
+CUST0942,Male,0,0,0,46,Month-to-month,Fiber optic,Electronic check,1,92.22000122,4465.339844,2,0,Store,4,25-48 months
+CUST0943,Female,0,1,1,40,Month-to-month,Fiber optic,Credit card,1,87.79000092,3705.040039,1,0,Store,3,25-48 months
+CUST0944,Male,0,0,0,21,One year,Fiber optic,Electronic check,0,72.91999817,1417.160034,0,0,Website,4,13-24 months
+CUST0945,Male,0,1,1,42,Month-to-month,DSL,Bank transfer,1,89.88999939,3515.350098,0,0,Referral,5,25-48 months
+CUST0946,Male,0,0,0,8,One year,DSL,Bank transfer,0,94.55000305,776.960022,3,1,Website,1,0-12 months
+CUST0947,Female,0,1,1,34,One year,Fiber optic,Mailed check,1,82.61000061,2808.73999,1,0,Website,4,25-48 months
+CUST0948,Male,0,1,1,11,One year,Fiber optic,Credit card,1,81.43000031,845.4799805,1,1,Website,2,0-12 months
+CUST0949,Female,0,0,0,5,One year,DSL,Bank transfer,1,107.0100021,561.210022,0,0,Call Center,5,0-12 months
+CUST0950,Male,0,1,1,12,Two year,Fiber optic,Electronic check,1,83.55000305,957.1199951,2,0,Website,4,0-12 months
+CUST0951,Male,0,1,0,8,One year,DSL,Credit card,0,73.66999817,549.5800171,4,1,Store,5,0-12 months
+CUST0952,Male,0,0,1,34,Two year,DSL,Bank transfer,1,82.65000153,2922.280029,0,0,Store,4,25-48 months
+CUST0953,Female,0,0,0,39,Month-to-month,DSL,Mailed check,0,69.84999847,2771.280029,0,0,Website,1,25-48 months
+CUST0954,Male,0,1,0,44,One year,No,Bank transfer,1,18,778.6199951,1,0,Call Center,4,25-48 months
+CUST0955,Female,0,0,1,32,One year,DSL,Bank transfer,0,80.31999969,2649.5,2,0,Store,5,25-48 months
+CUST0956,Female,0,0,1,12,Month-to-month,No,Electronic check,0,33.15000153,423.980011,2,1,Website,3,0-12 months
+CUST0957,Male,1,0,0,1,Month-to-month,No,Credit card,1,74.52999878,68.98000336,2,0,Website,2,0-12 months
+CUST0958,Female,0,0,0,52,Month-to-month,Fiber optic,Bank transfer,1,101.3499985,5377.859863,0,0,Store,4,49-72 months
+CUST0959,Female,0,0,0,71,Month-to-month,Fiber optic,Bank transfer,0,70.90000153,4806.910156,2,1,Store,4,49-72 months
+CUST0960,Male,1,0,0,20,Two year,Fiber optic,Electronic check,0,100.0400009,1992.52002,1,0,Referral,1,13-24 months
+CUST0961,Male,1,0,0,14,Month-to-month,Fiber optic,Electronic check,1,90.76999664,1255.319946,0,1,Referral,3,13-24 months
+CUST0962,Male,0,0,0,22,Month-to-month,DSL,Mailed check,1,100.8099976,2178.780029,1,0,Website,3,13-24 months
+CUST0963,Female,1,1,0,15,One year,Fiber optic,Bank transfer,0,72.45999908,1033.050049,1,0,Website,4,13-24 months
+CUST0964,Male,1,1,1,16,Month-to-month,Fiber optic,Bank transfer,1,88.15000153,1478.699951,2,1,Store,3,13-24 months
+CUST0965,Female,0,1,1,36,Month-to-month,Fiber optic,Credit card,0,81.81999969,2888.73999,2,1,Referral,4,25-48 months
+CUST0966,Female,0,0,0,57,One year,DSL,Electronic check,1,73.29000092,4436.330078,1,0,Referral,5,49-72 months
+CUST0967,Female,0,1,0,51,Month-to-month,DSL,Bank transfer,1,52.52999878,2616.72998,0,0,Referral,3,49-72 months
+CUST0968,Male,0,0,0,70,Month-to-month,No,Credit card,0,46.66999817,3444.469971,1,0,Store,4,49-72 months
+CUST0969,Female,0,0,0,26,One year,Fiber optic,Credit card,1,93.19999695,2440.439941,3,0,Referral,3,25-48 months
+CUST0970,Male,0,0,0,35,One year,Fiber optic,Credit card,0,112.2699966,3857.540039,0,0,Referral,3,25-48 months
+CUST0971,Male,0,1,0,27,One year,No,Credit card,1,33.77999878,941.8300171,1,0,Referral,4,25-48 months
+CUST0972,Male,0,0,0,3,Month-to-month,DSL,Electronic check,1,62.93999863,197.4799957,4,1,Store,4,0-12 months
+CUST0973,Male,0,0,0,28,Month-to-month,DSL,Bank transfer,1,89.36000061,2495.149902,0,0,Website,5,25-48 months
+CUST0974,Male,0,1,1,19,Two year,DSL,Credit card,1,54.52999878,1023.710022,2,0,Call Center,3,13-24 months
+CUST0975,Male,0,0,0,34,One year,Fiber optic,Bank transfer,0,107.8700027,3713.01001,0,0,Store,2,25-48 months
+CUST0976,Male,0,1,1,11,Month-to-month,No,Electronic check,0,57.81999969,644.6900024,1,1,Website,3,0-12 months
+CUST0977,Male,0,0,0,54,Two year,DSL,Credit card,0,99.66000366,5317.470215,1,0,Call Center,4,49-72 months
+CUST0978,Female,1,0,1,61,Month-to-month,DSL,Electronic check,1,80.29000092,5099.600098,1,0,Call Center,3,49-72 months
+CUST0979,Male,1,1,0,70,One year,DSL,Electronic check,1,61.29999924,4222.149902,2,0,Website,5,49-72 months
+CUST0980,Female,1,1,0,6,One year,Fiber optic,Electronic check,1,86.40000153,514.5,5,0,Website,4,0-12 months
+CUST0981,Female,1,1,1,8,Two year,Fiber optic,Bank transfer,0,92.36000061,751.3300171,1,0,Website,4,0-12 months
+CUST0982,Female,0,1,0,70,Two year,DSL,Mailed check,1,59.68000031,4503.02002,2,0,Website,3,49-72 months
+CUST0983,Female,0,0,1,61,Month-to-month,DSL,Bank transfer,1,101.3300018,5944.450195,1,0,Store,1,49-72 months
+CUST0984,Female,0,1,1,42,One year,Fiber optic,Credit card,1,96.76000214,3889.629883,1,0,Website,4,25-48 months
+CUST0985,Female,0,1,1,23,Month-to-month,Fiber optic,Bank transfer,1,64.37000275,1403.969971,2,0,Referral,4,13-24 months
+CUST0986,Female,1,0,0,37,One year,No,Bank transfer,0,75.41999817,2875.120117,2,0,Call Center,5,25-48 months
+CUST0987,Female,0,0,1,39,One year,Fiber optic,Credit card,1,86.13999939,3332.100098,1,0,Store,4,25-48 months
+CUST0988,Male,0,0,0,61,Month-to-month,Fiber optic,Credit card,0,59.93000031,3590.570068,1,0,Store,2,49-72 months
+CUST0989,Male,0,0,0,38,Month-to-month,DSL,Electronic check,1,53.72999954,1945.069946,0,1,Website,2,25-48 months
+CUST0990,Female,0,1,0,2,Month-to-month,DSL,Electronic check,1,104.7300034,222.5700073,2,1,Call Center,2,0-12 months
+CUST0991,Male,0,0,0,51,Month-to-month,DSL,Bank transfer,1,112.1500015,5667.649902,1,0,Website,5,49-72 months
+CUST0992,Female,0,1,0,56,Month-to-month,DSL,Credit card,0,94.20999908,5366.669922,2,0,Store,4,49-72 months
+CUST0993,Male,1,0,0,21,Two year,Fiber optic,Bank transfer,1,113.0199966,2226.280029,0,0,Store,5,13-24 months
+CUST0994,Male,0,0,0,8,Month-to-month,No,Electronic check,1,60.77000046,455.6700134,1,0,Referral,5,0-12 months
+CUST0995,Female,0,0,0,10,One year,No,Credit card,0,46.25,430.480011,1,0,Call Center,2,0-12 months
+CUST0996,Female,0,0,0,61,Two year,DSL,Bank transfer,1,79.23999786,4731.049805,0,0,Call Center,4,49-72 months
+CUST0997,Female,0,0,0,32,One year,DSL,Bank transfer,1,83.87999725,2672.52002,0,0,Website,4,25-48 months
+CUST0998,Male,0,1,0,38,Month-to-month,Fiber optic,Credit card,1,100.1900024,3651.629883,0,0,Call Center,3,25-48 months
+CUST0999,Female,0,0,0,70,Two year,Fiber optic,Credit card,1,67.68000031,4623.649902,1,0,Website,4,49-72 months
