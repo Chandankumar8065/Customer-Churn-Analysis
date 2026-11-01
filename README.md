@@ -6,6 +6,12 @@ An end-to-end data analytics portfolio project that explores customer churn usin
 
 Identify customer segments associated with higher churn, summarize the business risks visible in the dataset, and recommend practical retention actions that a subscription business could test.
 
+## Dashboard preview
+
+![Customer Churn Dashboard](Images/Dashboard%20image.PNG)
+
+The interactive Power BI report is available in [`PowerBI/Customer_Churn_Dashboard.pbix`](PowerBI/Customer_Churn_Dashboard.pbix).
+
 ## Dataset
 
 - **Records:** 1,200 customers
@@ -45,9 +51,11 @@ Customer-Churn-Analysis/
 ├── SQL/
 │   └── Customer_Churn_Analysis.sql
 ├── PowerBI/
-│   └── README.md  (dashboard file placement)
+│   ├── Customer_Churn_Dashboard.pbix
+│   └── README.md
 ├── Images/
-│   └── (add dashboard screenshots here)
+│   ├── Dashboard image.PNG
+│   └── README.md
 ├── Business_Impact_Insights.md
 └── README.md
 ```
@@ -70,7 +78,7 @@ Required packages: `pandas`, `numpy`, `matplotlib`, and `seaborn`.
 
 ### Power BI
 
-The interactive dashboard was built in Power BI Desktop. Add the `.pbix` file to `PowerBI/Customer_Churn_Dashboard.pbix`, then open it in Power BI Desktop. If prompted, update the data source to the local project CSV or your SQL Server table and refresh the model.
+The interactive dashboard was built in Power BI Desktop. Download [`Customer_Churn_Dashboard.pbix`](PowerBI/Customer_Churn_Dashboard.pbix) and open it in Power BI Desktop. If prompted, update the data source to the local project CSV or your SQL Server table and refresh the model.
 
 ## Important interpretation note
 
