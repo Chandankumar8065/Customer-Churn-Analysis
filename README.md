@@ -8,7 +8,7 @@ Identify customer segments associated with higher churn, summarize the business 
 
 ## Dashboard preview
 
-![Customer Churn Dashboard](Images/Dashboard%20image.PNG)
+![Customer Churn Dashboard](https://raw.githubusercontent.com/Chandankumar8065/Customer-Churn-Analysis/main/Images/Dashboard%20image.PNG)
 
 The interactive Power BI report is available in [`PowerBI/Customer_Churn_Dashboard.pbix`](PowerBI/Customer_Churn_Dashboard.pbix).
 
@@ -21,12 +21,12 @@ The interactive Power BI report is available in [`PowerBI/Customer_Churn_Dashboa
 - **Duplicate rows:** 0
 - **Tenure groups:** 0–12, 13–24, 25–48, and 49–72 months
 
-The CSV is stored in `Dataset/customer_churn_cleaned_fixed.csv`. This is a project/sample dataset, not verified production data from a named company. Findings should therefore be treated as analytical examples rather than claims about a real business.
+The cleaned dataset is available here: [customer_churn_cleaned_fixed.csv](Dataset/customer_churn_cleaned_fixed.csv). This is a project/sample dataset, not verified production data from a named company. Findings should therefore be treated as analytical examples rather than claims about a real business.
 
 ## Tools and workflow
 
-1. **Python / Jupyter Notebook** — validate the cleaned data, calculate churn metrics, compare segments, and create exploratory visualizations.
-2. **SQL Server** — run grouped churn analyses and cross-segment queries against `customer_churn_db.dbo.customer_churn_cleaned`.
+1. **[Python / Jupyter Notebook](Python/Customer_Churn_Analysis.ipynb)** — validate the cleaned data, calculate churn metrics, compare segments, and create exploratory visualizations.
+2. **[SQL Server analysis](SQL/Customer_Churn_Analysis.sql)** — run grouped churn analyses and cross-segment queries against `customer_churn_db.dbo.customer_churn_cleaned`.
 3. **Power BI** — present headline KPIs, segment comparisons, and slicers in an interactive report.
 
 ## Key findings
@@ -38,7 +38,7 @@ The CSV is stored in `Dataset/customer_churn_cleaned_fixed.csv`. This is a proje
 - Customers with 3 or more support tickets have a **28.47%** churn rate, compared with **16.24%** among customers with no support tickets.
 - Average tenure is **24.51 months** among churned customers and **39.12 months** among retained customers.
 
-See [`Business_Impact_Insights.md`](Business_Impact_Insights.md) for interpretation, recommendations, limitations, and suggested business KPIs.
+See [Business Impact Insights](Business_Impact_Insights.md) for interpretation, recommendations, limitations, and suggested business KPIs.
 
 ## Repository structure
 
@@ -64,7 +64,7 @@ Customer-Churn-Analysis/
 
 ### Python
 
-1. Open `Python/Customer_Churn_Analysis.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
+1. Open the [Python analysis notebook](Python/Customer_Churn_Analysis.ipynb) in Jupyter Notebook, JupyterLab, or Google Colab.
 2. Keep the CSV in the `Dataset` folder at the project root. The notebook also supports running from inside the `Python` folder and uploading the CSV to Colab.
 3. Run the notebook from top to bottom.
 
@@ -72,13 +72,13 @@ Required packages: `pandas`, `numpy`, `matplotlib`, and `seaborn`.
 
 ### SQL Server
 
-1. Import the CSV into SQL Server as `dbo.customer_churn_cleaned` in a database named `customer_churn_db` (or update the database/table reference in the script to match your setup).
-2. Open `SQL/Customer_Churn_Analysis.sql` in SQL Server Management Studio.
+1. Import the [cleaned CSV dataset](Dataset/customer_churn_cleaned_fixed.csv) into SQL Server as `dbo.customer_churn_cleaned` in a database named `customer_churn_db` (or update the database/table reference in the script to match your setup).
+2. Open the [SQL analysis script](SQL/Customer_Churn_Analysis.sql) in SQL Server Management Studio.
 3. Confirm the database and table names, then run the queries. The script has 18 analysis queries and a final validation query.
 
 ### Power BI
 
-The interactive dashboard was built in Power BI Desktop. Download [`Customer_Churn_Dashboard.pbix`](PowerBI/Customer_Churn_Dashboard.pbix) and open it in Power BI Desktop. If prompted, update the data source to the local project CSV or your SQL Server table and refresh the model.
+The interactive dashboard was built in Power BI Desktop. Download the [Customer Churn Power BI dashboard](PowerBI/Customer_Churn_Dashboard.pbix) and open it in Power BI Desktop. If prompted, update the data source to the local project CSV or your SQL Server table and refresh the model.
 
 ## Important interpretation note
 
