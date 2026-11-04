@@ -1,14 +1,16 @@
-# Customer Churn Analysis
+# Nexora Telecom — Customer Churn Analysis
 
-An end-to-end data analytics portfolio project that explores customer churn using Python (Pandas, NumPy, Matplotlib and Seaborn), SQL Server, and Power BI.
+An end-to-end data analytics case study for **Nexora Telecom**, a fictional telecommunications company. The project explores customer churn using Python (Pandas, NumPy, Matplotlib and Seaborn), SQL Server, and Power BI.
+
+> **Project context:** Nexora Telecom is a fictional company created for this portfolio case study. This is an independent learning project and does not represent work performed for, or an affiliation with, a real company.
 
 ## Project objective
 
-Identify customer segments associated with higher churn, summarize the business risks visible in the dataset, and recommend practical retention actions that a subscription business could test.
+Act as a data analyst supporting Nexora Telecom's customer-retention team. Identify customer segments associated with higher churn, summarize the business risks visible in the sample dataset, and recommend practical retention actions that the fictional business could test.
 
 ## Dashboard preview
 
-![Customer Churn Dashboard](https://raw.githubusercontent.com/Chandankumar8065/Customer-Churn-Analysis/main/Images/Dashboard%20image.PNG)
+![Nexora Telecom Customer Churn Dashboard](https://raw.githubusercontent.com/Chandankumar8065/Customer-Churn-Analysis/main/Images/Dashboard%20image.PNG)
 
 The interactive Power BI report is available in [`PowerBI/Customer_Churn_Dashboard.pbix`](PowerBI/Customer_Churn_Dashboard.pbix).
 
@@ -21,7 +23,7 @@ The interactive Power BI report is available in [`PowerBI/Customer_Churn_Dashboa
 - **Duplicate rows:** 0
 - **Tenure groups:** 0–12, 13–24, 25–48, and 49–72 months
 
-The cleaned dataset is available here: [customer_churn_cleaned_fixed.csv](Dataset/customer_churn_cleaned_fixed.csv). This is a project/sample dataset, not verified production data from a named company. Findings should therefore be treated as analytical examples rather than claims about a real business.
+The cleaned sample dataset is available here: [customer_churn_cleaned_fixed.csv](Dataset/customer_churn_cleaned_fixed.csv). It is not verified production data from a real company. Findings are illustrative and should not be interpreted as actual Nexora Telecom business results.
 
 ## Tools and workflow
 
@@ -30,6 +32,8 @@ The cleaned dataset is available here: [customer_churn_cleaned_fixed.csv](Datase
 3. **Power BI** — present headline KPIs, segment comparisons, and slicers in an interactive report.
 
 ## Key findings
+
+The following findings are calculated from the sample dataset used in this portfolio project:
 
 - Overall churn is **19.08%** (229 of 1,200 customers); 971 customers are retained.
 - Month-to-month contracts have the highest churn (**26.48%**), compared with **12.75%** for one-year and **5.31%** for two-year contracts.
@@ -82,7 +86,7 @@ The interactive dashboard was built in Power BI Desktop. Download the [Customer 
 
 ## Important interpretation note
 
-This project is descriptive analysis. Segment differences show associations in this dataset; they do not prove that a contract, payment method, support ticket, or customer characteristic causes churn. Revenue figures associated with churned records are not automatically recoverable revenue or proven financial loss. Retention recommendations should be tested and measured before claiming business impact.
+This project is descriptive analysis. Segment differences show associations in this sample dataset; they do not prove that a contract, payment method, support ticket, or customer characteristic causes churn. Revenue figures associated with churned records are not automatically recoverable revenue or proven financial loss. Retention recommendations should be tested and measured before claiming business impact.
 
 ## Author
 
